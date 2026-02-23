@@ -1,7 +1,19 @@
 fileFormatVersion: 2
-guid: 9d106158e22719c4597d0b8cd6c68bd4
+guid: db4efa7d6b61b52498698c3be3656452
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4040897674437121508
+    second: Flower_light2_0
+  - first:
+      213: 7362178011473157647
+    second: Flower_light2_1
+  - first:
+      213: -3867493424972574323
+    second: Flower_light2_2
+  - first:
+      213: -7566499126236337470
+    second: Flower_light2_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -34,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 8
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,10 +81,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 128
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -93,119 +105,93 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 128
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Idle aggiornato_0
+      name: Flower_light2_0
       rect:
         serializedVersion: 2
-        x: 6
+        x: 0
         y: 0
         width: 9
-        height: 19
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 34e4dd8f08dc2c342948beb5e57ce9f7
-      internalID: -1146820149
+      spriteID: 4e5d68a7607241830800000000000000
+      internalID: 4040897674437121508
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle aggiornato_1
+      name: Flower_light2_1
       rect:
         serializedVersion: 2
-        x: 30
+        x: 8
         y: 0
         width: 9
-        height: 18
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6ba0fb45b6bbc994b9315474b69eb337
-      internalID: 856298153
+      spriteID: f0e9c0b15e5bb2660800000000000000
+      internalID: 7362178011473157647
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle aggiornato_2
+      name: Flower_light2_2
       rect:
         serializedVersion: 2
-        x: 54
+        x: 16
         y: 0
         width: 9
-        height: 17
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8142734cebb4d4a488b1c11d5fa910a8
-      internalID: 1614666875
+      spriteID: d81d9598837e35ac0800000000000000
+      internalID: -3867493424972574323
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle aggiornato_3
+      name: Flower_light2_3
       rect:
         serializedVersion: 2
-        x: 78
+        x: 23
         y: 0
         width: 9
-        height: 18
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8ad2035b382faa94791dd3808fcbc3ad
-      internalID: -680673216
+      spriteID: 2ca216b32256ef690800000000000000
+      internalID: -7566499126236337470
       vertices: []
       indices: 
       edges: []
@@ -214,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -222,14 +208,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      Idle aggiornato_0: -1146820149
-      Idle aggiornato_1: 856298153
-      Idle aggiornato_2: 1614666875
-      Idle aggiornato_3: -680673216
+      Flower_light2_0: 4040897674437121508
+      Flower_light2_1: 7362178011473157647
+      Flower_light2_2: -3867493424972574323
+      Flower_light2_3: -7566499126236337470
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
