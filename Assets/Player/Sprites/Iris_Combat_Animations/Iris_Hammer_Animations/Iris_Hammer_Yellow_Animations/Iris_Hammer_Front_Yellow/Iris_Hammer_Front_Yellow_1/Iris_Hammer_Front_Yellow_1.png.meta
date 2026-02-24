@@ -1,37 +1,34 @@
 fileFormatVersion: 2
-guid: c384bdace17b969489e5c3977493521c
+guid: 87dc382f32a52d642835f454e536d5d3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2378746109203066062
-    second: Iris_Run_0
+      213: -6956806172934432420
+    second: Iris_Hammer_Front_Yellow_1_0
   - first:
-      213: 2024669847079524991
-    second: Iris_Run_1
+      213: 2679978099402331016
+    second: Iris_Hammer_Front_Yellow_1_1
   - first:
-      213: 4575384854151723995
-    second: Iris_Run_2
+      213: -3094994590339673737
+    second: Iris_Hammer_Front_Yellow_1_2
   - first:
-      213: -5650093744487128204
-    second: Iris_Run_3
+      213: -5847883340094494952
+    second: Iris_Hammer_Front_Yellow_1_3
   - first:
-      213: -4851040214314903697
-    second: Iris_Run_4
+      213: 809745160031731863
+    second: Iris_Hammer_Front_Yellow_1_4
   - first:
-      213: 9211912594694301370
-    second: Iris_Run_5
+      213: -1408982447784326704
+    second: Iris_Hammer_Front_Yellow_1_5
   - first:
-      213: 4188449813292291492
-    second: Iris_Run_6
+      213: -5171671827322514028
+    second: Iris_Hammer_Front_Yellow_1_6
   - first:
-      213: 8512364582658683240
-    second: Iris_Run_7
+      213: 5916130614771037463
+    second: Iris_Hammer_Front_Yellow_1_7
   - first:
-      213: 6478672633828611324
-    second: Iris_Run_8
-  - first:
-      213: -2437615593231390358
-    second: Iris_Run_9
+      213: -2176698155704951882
+    second: Iris_Hammer_Front_Yellow_1_8
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -64,7 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -78,7 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 8
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -99,10 +96,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 256
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -140,221 +137,199 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Iris_Run_0
+      name: Iris_Hammer_Front_Yellow_1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 24
-        height: 24
+        x: 26
+        y: 27
+        width: 25
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ecc24e1bbf0030120800000000000000
-      internalID: 2378746109203066062
+      spriteID: c599ffaf4a5747f90800000000000000
+      internalID: -6956806172934432420
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_1
+      name: Iris_Hammer_Front_Yellow_1_1
       rect:
         serializedVersion: 2
-        x: 24
-        y: 0
-        width: 24
-        height: 24
+        x: 121
+        y: 27
+        width: 22
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7a9e9eaf72191c10800000000000000
-      internalID: 2024669847079524991
+      spriteID: 883d3bcd1e1313520800000000000000
+      internalID: 2679978099402331016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_2
+      name: Iris_Hammer_Front_Yellow_1_2
       rect:
         serializedVersion: 2
-        x: 48
-        y: 0
-        width: 24
-        height: 24
+        x: 214
+        y: 27
+        width: 21
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bdb7a6e88480f7f30800000000000000
-      internalID: 4575384854151723995
+      spriteID: 7715c0d61de5c05d0800000000000000
+      internalID: -3094994590339673737
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_3
+      name: Iris_Hammer_Front_Yellow_1_3
       rect:
         serializedVersion: 2
-        x: 72
-        y: 0
-        width: 24
-        height: 24
+        x: 312
+        y: 27
+        width: 18
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4732034cca5d691b0800000000000000
-      internalID: -5650093744487128204
+      spriteID: 8172eb9e51528dea0800000000000000
+      internalID: -5847883340094494952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_4
+      name: Iris_Hammer_Front_Yellow_1_4
       rect:
         serializedVersion: 2
-        x: 96
-        y: 0
-        width: 24
-        height: 24
+        x: 408
+        y: 27
+        width: 35
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f6710a280a4adacb0800000000000000
-      internalID: -4851040214314903697
+      spriteID: 790884eceeacc3b00800000000000000
+      internalID: 809745160031731863
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_5
+      name: Iris_Hammer_Front_Yellow_1_5
       rect:
         serializedVersion: 2
-        x: 120
-        y: 0
-        width: 24
-        height: 24
+        x: 496
+        y: 27
+        width: 38
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ab663b4b2b947df70800000000000000
-      internalID: 9211912594694301370
+      spriteID: 0d90e09cde9427ce0800000000000000
+      internalID: -1408982447784326704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_6
+      name: Iris_Hammer_Front_Yellow_1_6
       rect:
         serializedVersion: 2
-        x: 144
-        y: 0
-        width: 24
-        height: 24
+        x: 575
+        y: 27
+        width: 36
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4a596d0f9ec502a30800000000000000
-      internalID: 4188449813292291492
+      spriteID: 495db8dafd78a38b0800000000000000
+      internalID: -5171671827322514028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_7
+      name: Iris_Hammer_Front_Yellow_1_7
       rect:
         serializedVersion: 2
-        x: 168
-        y: 0
-        width: 24
-        height: 24
+        x: 666
+        y: 27
+        width: 29
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 861bcfbcc7ef12670800000000000000
-      internalID: 8512364582658683240
+      spriteID: 715bd3af2715a1250800000000000000
+      internalID: 5916130614771037463
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_8
+      name: Iris_Hammer_Front_Yellow_1_8
       rect:
         serializedVersion: 2
-        x: 192
-        y: 0
-        width: 24
-        height: 24
+        x: 754
+        y: 27
+        width: 33
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf4166b5f6ed8e950800000000000000
-      internalID: 6478672633828611324
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Iris_Run_9
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 0
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a696d727889db2ed0800000000000000
-      internalID: -2437615593231390358
+      spriteID: 6bb55fd5f80dac1e0800000000000000
+      internalID: -2176698155704951882
       vertices: []
       indices: 
       edges: []
@@ -363,7 +338,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 1e77848a061a02d42a23efcbefd3b46c
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -371,20 +346,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":10.0,"y":1.0},"gridSpriteSize":{"x":24.0,"y":24.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      Iris_Run_0: 2378746109203066062
-      Iris_Run_1: 2024669847079524991
-      Iris_Run_2: 4575384854151723995
-      Iris_Run_3: -5650093744487128204
-      Iris_Run_4: -4851040214314903697
-      Iris_Run_5: 9211912594694301370
-      Iris_Run_6: 4188449813292291492
-      Iris_Run_7: 8512364582658683240
-      Iris_Run_8: 6478672633828611324
-      Iris_Run_9: -2437615593231390358
+      Iris_Hammer_Front_Yellow_1_0: -6956806172934432420
+      Iris_Hammer_Front_Yellow_1_1: 2679978099402331016
+      Iris_Hammer_Front_Yellow_1_2: -3094994590339673737
+      Iris_Hammer_Front_Yellow_1_3: -5847883340094494952
+      Iris_Hammer_Front_Yellow_1_4: 809745160031731863
+      Iris_Hammer_Front_Yellow_1_5: -1408982447784326704
+      Iris_Hammer_Front_Yellow_1_6: -5171671827322514028
+      Iris_Hammer_Front_Yellow_1_7: 5916130614771037463
+      Iris_Hammer_Front_Yellow_1_8: -2176698155704951882
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

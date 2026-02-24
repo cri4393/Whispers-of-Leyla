@@ -1,37 +1,25 @@
 fileFormatVersion: 2
-guid: c384bdace17b969489e5c3977493521c
+guid: a1c2e0a0a47dd274c88646af9c79eb5c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2378746109203066062
-    second: Iris_Run_0
+      213: 7543531987604030214
+    second: Tileset_No_collider_Wood_0
   - first:
-      213: 2024669847079524991
-    second: Iris_Run_1
+      213: -282702763123427128
+    second: Tileset_No_collider_Wood_1
   - first:
-      213: 4575384854151723995
-    second: Iris_Run_2
+      213: 230110716062577876
+    second: Tileset_No_collider_Wood_2
   - first:
-      213: -5650093744487128204
-    second: Iris_Run_3
+      213: -2568518335173502207
+    second: Tileset_No_collider_Wood_3
   - first:
-      213: -4851040214314903697
-    second: Iris_Run_4
+      213: -8035058194171455510
+    second: Tileset_No_collider_Wood_4
   - first:
-      213: 9211912594694301370
-    second: Iris_Run_5
-  - first:
-      213: 4188449813292291492
-    second: Iris_Run_6
-  - first:
-      213: 8512364582658683240
-    second: Iris_Run_7
-  - first:
-      213: 6478672633828611324
-    second: Iris_Run_8
-  - first:
-      213: -2437615593231390358
-    second: Iris_Run_9
+      213: 2123087619085151684
+    second: Tileset_No_collider_Wood_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -64,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -78,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 8
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -99,10 +87,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 256
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -140,221 +128,133 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Iris_Run_0
+      name: Tileset_No_collider_Wood_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 24
-        height: 24
+        y: 23
+        width: 54
+        height: 73
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ecc24e1bbf0030120800000000000000
-      internalID: 2378746109203066062
+      spriteID: 6034fe8106200b860800000000000000
+      internalID: 7543531987604030214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_1
+      name: Tileset_No_collider_Wood_1
       rect:
         serializedVersion: 2
-        x: 24
-        y: 0
-        width: 24
-        height: 24
+        x: 47
+        y: 89
+        width: 12
+        height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7a9e9eaf72191c10800000000000000
-      internalID: 2024669847079524991
+      spriteID: 8c8b103b553a31cf0800000000000000
+      internalID: -282702763123427128
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_2
+      name: Tileset_No_collider_Wood_2
       rect:
         serializedVersion: 2
-        x: 48
-        y: 0
-        width: 24
-        height: 24
+        x: 79
+        y: 31
+        width: 89
+        height: 65
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bdb7a6e88480f7f30800000000000000
-      internalID: 4575384854151723995
+      spriteID: 4d4bbe12a74813300800000000000000
+      internalID: 230110716062577876
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_3
+      name: Tileset_No_collider_Wood_3
       rect:
         serializedVersion: 2
-        x: 72
+        x: 31
         y: 0
-        width: 24
-        height: 24
+        width: 12
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4732034cca5d691b0800000000000000
-      internalID: -5650093744487128204
+      spriteID: 10bd7e8ce2aca5cd0800000000000000
+      internalID: -2568518335173502207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_4
+      name: Tileset_No_collider_Wood_4
       rect:
         serializedVersion: 2
-        x: 96
+        x: 63
         y: 0
-        width: 24
-        height: 24
+        width: 21
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f6710a280a4adacb0800000000000000
-      internalID: -4851040214314903697
+      spriteID: ae791dad42dbd7090800000000000000
+      internalID: -8035058194171455510
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_5
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 0
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab663b4b2b947df70800000000000000
-      internalID: 9211912594694301370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Iris_Run_6
+      name: Tileset_No_collider_Wood_5
       rect:
         serializedVersion: 2
         x: 144
         y: 0
-        width: 24
-        height: 24
+        width: 16
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4a596d0f9ec502a30800000000000000
-      internalID: 4188449813292291492
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Iris_Run_7
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 0
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 861bcfbcc7ef12670800000000000000
-      internalID: 8512364582658683240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Iris_Run_8
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cf4166b5f6ed8e950800000000000000
-      internalID: 6478672633828611324
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Iris_Run_9
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 0
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a696d727889db2ed0800000000000000
-      internalID: -2437615593231390358
+      spriteID: 4cda992e0f8b67d10800000000000000
+      internalID: 2123087619085151684
       vertices: []
       indices: 
       edges: []
@@ -363,7 +263,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 1e77848a061a02d42a23efcbefd3b46c
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -371,20 +271,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":10.0,"y":1.0},"gridSpriteSize":{"x":24.0,"y":24.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      Iris_Run_0: 2378746109203066062
-      Iris_Run_1: 2024669847079524991
-      Iris_Run_2: 4575384854151723995
-      Iris_Run_3: -5650093744487128204
-      Iris_Run_4: -4851040214314903697
-      Iris_Run_5: 9211912594694301370
-      Iris_Run_6: 4188449813292291492
-      Iris_Run_7: 8512364582658683240
-      Iris_Run_8: 6478672633828611324
-      Iris_Run_9: -2437615593231390358
+      Tileset_No_collider_Wood_0: 7543531987604030214
+      Tileset_No_collider_Wood_1: -282702763123427128
+      Tileset_No_collider_Wood_2: 230110716062577876
+      Tileset_No_collider_Wood_3: -2568518335173502207
+      Tileset_No_collider_Wood_4: -8035058194171455510
+      Tileset_No_collider_Wood_5: 2123087619085151684
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

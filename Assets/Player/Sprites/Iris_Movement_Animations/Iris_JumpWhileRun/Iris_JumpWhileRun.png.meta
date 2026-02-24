@@ -1,37 +1,31 @@
 fileFormatVersion: 2
-guid: c384bdace17b969489e5c3977493521c
+guid: 869879b779935a34d92094b31de2c3d2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2378746109203066062
-    second: Iris_Run_0
+      213: 7128068264367149109
+    second: Iris_JumpWhileRun_0
   - first:
-      213: 2024669847079524991
-    second: Iris_Run_1
+      213: -8771694067281891226
+    second: Iris_JumpWhileRun_1
   - first:
-      213: 4575384854151723995
-    second: Iris_Run_2
+      213: -5405803114110914775
+    second: Iris_JumpWhileRun_2
   - first:
-      213: -5650093744487128204
-    second: Iris_Run_3
+      213: 1347147798035220237
+    second: Iris_JumpWhileRun_3
   - first:
-      213: -4851040214314903697
-    second: Iris_Run_4
+      213: -9162551428304341821
+    second: Iris_JumpWhileRun_4
   - first:
-      213: 9211912594694301370
-    second: Iris_Run_5
+      213: -3159740063995830709
+    second: Iris_JumpWhileRun_5
   - first:
-      213: 4188449813292291492
-    second: Iris_Run_6
+      213: -3655447363956442007
+    second: Iris_JumpWhileRun_6
   - first:
-      213: 8512364582658683240
-    second: Iris_Run_7
-  - first:
-      213: 6478672633828611324
-    second: Iris_Run_8
-  - first:
-      213: -2437615593231390358
-    second: Iris_Run_9
+      213: -5657414287539906307
+    second: Iris_JumpWhileRun_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -64,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -78,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 8
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -99,10 +93,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 256
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -140,221 +134,177 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Iris_Run_0
+      name: Iris_JumpWhileRun_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 24
-        height: 24
+        x: 11
+        y: 4
+        width: 13
+        height: 22
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ecc24e1bbf0030120800000000000000
-      internalID: 2378746109203066062
+      spriteID: 530d650025cfbe260800000000000000
+      internalID: 7128068264367149109
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_1
+      name: Iris_JumpWhileRun_1
       rect:
         serializedVersion: 2
-        x: 24
-        y: 0
-        width: 24
-        height: 24
+        x: 44
+        y: 5
+        width: 14
+        height: 22
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7a9e9eaf72191c10800000000000000
-      internalID: 2024669847079524991
+      spriteID: 660f24168bea44680800000000000000
+      internalID: -8771694067281891226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_2
+      name: Iris_JumpWhileRun_2
       rect:
         serializedVersion: 2
-        x: 48
-        y: 0
-        width: 24
-        height: 24
+        x: 77
+        y: 4
+        width: 15
+        height: 23
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bdb7a6e88480f7f30800000000000000
-      internalID: 4575384854151723995
+      spriteID: 92fe7b975babaf4b0800000000000000
+      internalID: -5405803114110914775
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_3
+      name: Iris_JumpWhileRun_3
       rect:
         serializedVersion: 2
-        x: 72
-        y: 0
-        width: 24
-        height: 24
+        x: 110
+        y: 4
+        width: 16
+        height: 23
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4732034cca5d691b0800000000000000
-      internalID: -5650093744487128204
+      spriteID: d07c6d9e8c702b210800000000000000
+      internalID: 1347147798035220237
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_4
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f6710a280a4adacb0800000000000000
-      internalID: -4851040214314903697
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Iris_Run_5
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 0
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab663b4b2b947df70800000000000000
-      internalID: 9211912594694301370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Iris_Run_6
+      name: Iris_JumpWhileRun_4
       rect:
         serializedVersion: 2
         x: 144
-        y: 0
-        width: 24
-        height: 24
+        y: 4
+        width: 17
+        height: 23
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4a596d0f9ec502a30800000000000000
-      internalID: 4188449813292291492
+      spriteID: 3c4fbaf650418d080800000000000000
+      internalID: -9162551428304341821
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_7
+      name: Iris_JumpWhileRun_5
       rect:
         serializedVersion: 2
-        x: 168
-        y: 0
-        width: 24
+        x: 177
+        y: 4
+        width: 18
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 861bcfbcc7ef12670800000000000000
-      internalID: 8512364582658683240
+      spriteID: b4e55fe17295624d0800000000000000
+      internalID: -3159740063995830709
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_8
+      name: Iris_JumpWhileRun_6
       rect:
         serializedVersion: 2
-        x: 192
-        y: 0
-        width: 24
-        height: 24
+        x: 210
+        y: 5
+        width: 19
+        height: 23
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf4166b5f6ed8e950800000000000000
-      internalID: 6478672633828611324
+      spriteID: 96cfc386dfd354dc0800000000000000
+      internalID: -3655447363956442007
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Iris_Run_9
+      name: Iris_JumpWhileRun_7
       rect:
         serializedVersion: 2
-        x: 216
-        y: 0
-        width: 24
-        height: 24
+        x: 244
+        y: 5
+        width: 19
+        height: 23
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a696d727889db2ed0800000000000000
-      internalID: -2437615593231390358
+      spriteID: df8d6f30ea3dc71b0800000000000000
+      internalID: -5657414287539906307
       vertices: []
       indices: 
       edges: []
@@ -363,7 +313,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 1e77848a061a02d42a23efcbefd3b46c
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -371,20 +321,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":10.0,"y":1.0},"gridSpriteSize":{"x":24.0,"y":24.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      Iris_Run_0: 2378746109203066062
-      Iris_Run_1: 2024669847079524991
-      Iris_Run_2: 4575384854151723995
-      Iris_Run_3: -5650093744487128204
-      Iris_Run_4: -4851040214314903697
-      Iris_Run_5: 9211912594694301370
-      Iris_Run_6: 4188449813292291492
-      Iris_Run_7: 8512364582658683240
-      Iris_Run_8: 6478672633828611324
-      Iris_Run_9: -2437615593231390358
+      Iris_JumpWhileRun_0: 7128068264367149109
+      Iris_JumpWhileRun_1: -8771694067281891226
+      Iris_JumpWhileRun_2: -5405803114110914775
+      Iris_JumpWhileRun_3: 1347147798035220237
+      Iris_JumpWhileRun_4: -9162551428304341821
+      Iris_JumpWhileRun_5: -3159740063995830709
+      Iris_JumpWhileRun_6: -3655447363956442007
+      Iris_JumpWhileRun_7: -5657414287539906307
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
