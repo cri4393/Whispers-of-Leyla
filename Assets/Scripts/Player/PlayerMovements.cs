@@ -27,6 +27,17 @@ public class PlayerMovements : MonoBehaviour
     const string WALLJUMP = "Iris_WallJump";
     const string DASH = "Iris_Dash";
     #endregion
+    
+    #region AudioFootSteps
+    [Header("Footsteps")]
+    public List<AudioClip> grassFS;
+    public List<AudioClip> rockFS;
+    public List<AudioClip> woodFS;
+    public List<AudioClip> marbleFS;
+    public List<AudioClip> mudFS;
+
+    [SerializeField] private AudioSource footstepSource;
+    #endregion
 
     #region Variables Movement
     [Header("MOVEMENTS")]
