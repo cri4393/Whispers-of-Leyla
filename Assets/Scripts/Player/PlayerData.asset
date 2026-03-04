@@ -23,7 +23,7 @@ MonoBehaviour:
   runDeccelAmount: 50
   accelInAir: 1
   deccelInAir: 1
-  doConserveMomentum: 1
+  doConserveMomentum: 0
   jumpForce: 100
   coyoteTime: 0.1
   jumpInputBufferTime: 0.2
