@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 23c4cbc58b515c84b8ac0c5ebe011260
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4625027227908646967
+    second: Aurelius_Hammer_Front_Yellow_1_0
+  - first:
+      213: -8424060283602805957
+    second: Aurelius_Hammer_Front_Yellow_1_1
+  - first:
+      213: -4213870699265219946
+    second: Aurelius_Hammer_Front_Yellow_1_2
+  - first:
+      213: -29674629018737912
+    second: Aurelius_Hammer_Front_Yellow_1_3
+  - first:
+      213: -8151254855965713133
+    second: Aurelius_Hammer_Front_Yellow_1_4
+  - first:
+      213: -2716969845986925794
+    second: Aurelius_Hammer_Front_Yellow_1_5
+  - first:
+      213: 8356450498697423466
+    second: Aurelius_Hammer_Front_Yellow_1_6
+  - first:
+      213: -17526870813678395
+    second: Aurelius_Hammer_Front_Yellow_1_7
+  - first:
+      213: 2621997449994758901
+    second: Aurelius_Hammer_Front_Yellow_1_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aurelius_Hammer_Front_Yellow_1_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7defb9d3a90dfb0800000000000000
+      internalID: -4625027227908646967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurelius_Hammer_Front_Yellow_1_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 31
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bd06dfdc9b71b80800000000000000
+      internalID: -8424060283602805957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurelius_Hammer_Front_Yellow_1_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 31
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692aed0dce25585c0800000000000000
+      internalID: -4213870699265219946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurelius_Hammer_Front_Yellow_1_3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 31
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8032f760513969ff0800000000000000
+      internalID: -29674629018737912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurelius_Hammer_Front_Yellow_1_4
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 31
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d5c7c45ece0ee80800000000000000
+      internalID: -8151254855965713133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurelius_Hammer_Front_Yellow_1_5
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 31
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e136088f1526b4ad0800000000000000
+      internalID: -2716969845986925794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurelius_Hammer_Front_Yellow_1_6
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 31
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6aeef5447318f370800000000000000
+      internalID: 8356450498697423466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurelius_Hammer_Front_Yellow_1_7
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 31
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c46023676bb1cff0800000000000000
+      internalID: -17526870813678395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurelius_Hammer_Front_Yellow_1_8
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 31
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faeae0f9c4336420800000000000000
+      internalID: 2621997449994758901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aurelius_Hammer_Front_Yellow_1_0: -4625027227908646967
+      Aurelius_Hammer_Front_Yellow_1_1: -8424060283602805957
+      Aurelius_Hammer_Front_Yellow_1_2: -4213870699265219946
+      Aurelius_Hammer_Front_Yellow_1_3: -29674629018737912
+      Aurelius_Hammer_Front_Yellow_1_4: -8151254855965713133
+      Aurelius_Hammer_Front_Yellow_1_5: -2716969845986925794
+      Aurelius_Hammer_Front_Yellow_1_6: 8356450498697423466
+      Aurelius_Hammer_Front_Yellow_1_7: -17526870813678395
+      Aurelius_Hammer_Front_Yellow_1_8: 2621997449994758901
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

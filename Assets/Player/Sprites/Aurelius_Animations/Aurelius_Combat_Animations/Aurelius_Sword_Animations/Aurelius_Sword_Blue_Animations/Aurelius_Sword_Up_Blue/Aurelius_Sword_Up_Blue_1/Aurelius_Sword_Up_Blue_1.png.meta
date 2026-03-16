@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 9385895cfc8b2f543a5a4533b3264ff5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8117568728928219971
+    second: Aurelius_Sword_Up_Blue_1_0
+  - first:
+      213: -5512573568001225751
+    second: Aurelius_Sword_Up_Blue_1_1
+  - first:
+      213: 6438800946036920511
+    second: Aurelius_Sword_Up_Blue_1_2
+  - first:
+      213: 7542176477654670373
+    second: Aurelius_Sword_Up_Blue_1_3
+  - first:
+      213: -4937516089650573841
+    second: Aurelius_Sword_Up_Blue_1_4
+  - first:
+      213: -5041294445462802293
+    second: Aurelius_Sword_Up_Blue_1_5
+  - first:
+      213: 7206402531547809682
+    second: Aurelius_Sword_Up_Blue_1_6
+  - first:
+      213: 111515015359167590
+    second: Aurelius_Sword_Up_Blue_1_7
+  - first:
+      213: 6474351402785072123
+    second: Aurelius_Sword_Up_Blue_1_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aurelius_Sword_Up_Blue_1_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 6
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc0a60ff3a985f80800000000000000
+      internalID: -8117568728928219971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurelius_Sword_Up_Blue_1_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 10
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb4419fb876f73b0800000000000000
+      internalID: -5512573568001225751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurelius_Sword_Up_Blue_1_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 35
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0daff98573b5950800000000000000
+      internalID: 6438800946036920511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurelius_Sword_Up_Blue_1_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 10
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cd9e7db813ba860800000000000000
+      internalID: 7542176477654670373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurelius_Sword_Up_Blue_1_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 15
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed0a9bc64b6a7bb0800000000000000
+      internalID: -4937516089650573841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurelius_Sword_Up_Blue_1_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 10
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b803a0a6969b90ab0800000000000000
+      internalID: -5041294445462802293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurelius_Sword_Up_Blue_1_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 10
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2970269dbe8420460800000000000000
+      internalID: 7206402531547809682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurelius_Sword_Up_Blue_1_7
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 10
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cfa9dc05e2c8100800000000000000
+      internalID: 111515015359167590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurelius_Sword_Up_Blue_1_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 9
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf36e0a5c4489d950800000000000000
+      internalID: 6474351402785072123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aurelius_Sword_Up_Blue_1_0: -8117568728928219971
+      Aurelius_Sword_Up_Blue_1_1: -5512573568001225751
+      Aurelius_Sword_Up_Blue_1_2: 6438800946036920511
+      Aurelius_Sword_Up_Blue_1_3: 7542176477654670373
+      Aurelius_Sword_Up_Blue_1_4: -4937516089650573841
+      Aurelius_Sword_Up_Blue_1_5: -5041294445462802293
+      Aurelius_Sword_Up_Blue_1_6: 7206402531547809682
+      Aurelius_Sword_Up_Blue_1_7: 111515015359167590
+      Aurelius_Sword_Up_Blue_1_8: 6474351402785072123
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
