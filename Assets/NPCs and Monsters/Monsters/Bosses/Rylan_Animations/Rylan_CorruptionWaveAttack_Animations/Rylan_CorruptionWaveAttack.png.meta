@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 7b7d0f6b3545bd44f9e1809083565199
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7034764627681437495
+    second: Rylan_CorruptionWaveAttack_0
+  - first:
+      213: 7268708953105174395
+    second: Rylan_CorruptionWaveAttack_1
+  - first:
+      213: 8553136123298997741
+    second: Rylan_CorruptionWaveAttack_2
+  - first:
+      213: -3794759941386457189
+    second: Rylan_CorruptionWaveAttack_3
+  - first:
+      213: -8847511107014347490
+    second: Rylan_CorruptionWaveAttack_4
+  - first:
+      213: 7668729570554662771
+    second: Rylan_CorruptionWaveAttack_5
+  - first:
+      213: 7614850562396833564
+    second: Rylan_CorruptionWaveAttack_6
+  - first:
+      213: -7784125977305069793
+    second: Rylan_CorruptionWaveAttack_7
+  - first:
+      213: 1559021837856676350
+    second: Rylan_CorruptionWaveAttack_8
+  - first:
+      213: 7444653739086327653
+    second: Rylan_CorruptionWaveAttack_9
+  - first:
+      213: -4267472896771762015
+    second: Rylan_CorruptionWaveAttack_10
+  - first:
+      213: -4149541660490429467
+    second: Rylan_CorruptionWaveAttack_11
+  - first:
+      213: 5697173962424436388
+    second: Rylan_CorruptionWaveAttack_12
+  - first:
+      213: -1483607837658076587
+    second: Rylan_CorruptionWaveAttack_13
+  - first:
+      213: 8353306409506767271
+    second: Rylan_CorruptionWaveAttack_14
+  - first:
+      213: -9047953336441316821
+    second: Rylan_CorruptionWaveAttack_15
+  - first:
+      213: -8123390383908030621
+    second: Rylan_CorruptionWaveAttack_16
+  - first:
+      213: -811426677547983162
+    second: Rylan_CorruptionWaveAttack_17
+  - first:
+      213: 2021446395272146705
+    second: Rylan_CorruptionWaveAttack_18
+  - first:
+      213: 5677870970875696498
+    second: Rylan_CorruptionWaveAttack_19
+  - first:
+      213: 53074690051017731
+    second: Rylan_CorruptionWaveAttack_20
+  - first:
+      213: 3910913904553493113
+    second: Rylan_CorruptionWaveAttack_21
+  - first:
+      213: 463829096272377024
+    second: Rylan_CorruptionWaveAttack_22
+  - first:
+      213: -3495032511268471298
+    second: Rylan_CorruptionWaveAttack_23
+  - first:
+      213: 6798932314898951911
+    second: Rylan_CorruptionWaveAttack_24
+  - first:
+      213: -4033736471497178305
+    second: Rylan_CorruptionWaveAttack_25
+  - first:
+      213: 6062905525774910332
+    second: Rylan_CorruptionWaveAttack_26
+  - first:
+      213: 2843289866411704173
+    second: Rylan_CorruptionWaveAttack_27
+  - first:
+      213: 88791851890631359
+    second: Rylan_CorruptionWaveAttack_28
+  - first:
+      213: -5303100918041997015
+    second: Rylan_CorruptionWaveAttack_29
+  - first:
+      213: -431381735578662831
+    second: Rylan_CorruptionWaveAttack_30
+  - first:
+      213: -7549879071717913848
+    second: Rylan_CorruptionWaveAttack_31
+  - first:
+      213: -9125905888165745452
+    second: Rylan_CorruptionWaveAttack_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_0
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 22
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7376f67382180a160800000000000000
+      internalID: 7034764627681437495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_1
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 21
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f09851844afd460800000000000000
+      internalID: 7268708953105174395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_2
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 34
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de56cc8dcf7d2b670800000000000000
+      internalID: 8553136123298997741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 31
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f27c550fd465bc0800000000000000
+      internalID: -3794759941386457189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_4
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1536183683573580800000000000000
+      internalID: -8847511107014347490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_5
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 49
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fc17be9eccc6a60800000000000000
+      internalID: 7668729570554662771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_6
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 42
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17c855cd326da960800000000000000
+      internalID: 7614850562396833564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_7
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 21
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1747db6aaa39f390800000000000000
+      internalID: -7784125977305069793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9168af912c2a510800000000000000
+      internalID: 1559021837856676350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 21
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f260ad129b05760800000000000000
+      internalID: 7444653739086327653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 21
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8df4ba204e6c4c0800000000000000
+      internalID: -4267472896771762015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 21
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb88c158ddd966c0800000000000000
+      internalID: -4149541660490429467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_12
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 21
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6c9eda88d601f40800000000000000
+      internalID: 5697173962424436388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_13
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 21
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55aa76a388a296be0800000000000000
+      internalID: -1483607837658076587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_14
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 21
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a105a6fbe7ece370800000000000000
+      internalID: 8353306409506767271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_15
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 21
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ada1de0663f6280800000000000000
+      internalID: -9047953336441316821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_16
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 21
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36776534c7be34f80800000000000000
+      internalID: -8123390383908030621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_17
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 21
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce1a736cbb3db4f0800000000000000
+      internalID: -811426677547983162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_18
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 21
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fa0b259ce9d0c10800000000000000
+      internalID: 2021446395272146705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_19
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 21
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2755c8bb099dbce40800000000000000
+      internalID: 5677870970875696498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_20
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 21
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c0e0f362f8cb000800000000000000
+      internalID: 53074690051017731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_21
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 21
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9720c0ca97b564630800000000000000
+      internalID: 3910913904553493113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_22
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 21
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c43ec70b1adf6600800000000000000
+      internalID: 463829096272377024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_23
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 21
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdb66fc2762f7fc0800000000000000
+      internalID: -3495032511268471298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_24
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 21
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eee9790be8aa5e50800000000000000
+      internalID: 6798932314898951911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_25
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 21
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f338fd20d0a4508c0800000000000000
+      internalID: -4033736471497178305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_26
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 21
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73019af374c32450800000000000000
+      internalID: 6062905525774910332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_27
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 21
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fffe0b115657720800000000000000
+      internalID: 2843289866411704173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_28
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 21
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2e3e608b37b3100800000000000000
+      internalID: 88791851890631359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_29
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 21
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9211f04efc99766b0800000000000000
+      internalID: -5303100918041997015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_30
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 21
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1580e38d89c630af0800000000000000
+      internalID: -431381735578662831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_31
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 21
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b09193cf0793790800000000000000
+      internalID: -7549879071717913848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_CorruptionWaveAttack_32
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 21
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc2c3222f44a5180800000000000000
+      internalID: -9125905888165745452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rylan_CorruptionWaveAttack_0: 7034764627681437495
+      Rylan_CorruptionWaveAttack_1: 7268708953105174395
+      Rylan_CorruptionWaveAttack_10: -4267472896771762015
+      Rylan_CorruptionWaveAttack_11: -4149541660490429467
+      Rylan_CorruptionWaveAttack_12: 5697173962424436388
+      Rylan_CorruptionWaveAttack_13: -1483607837658076587
+      Rylan_CorruptionWaveAttack_14: 8353306409506767271
+      Rylan_CorruptionWaveAttack_15: -9047953336441316821
+      Rylan_CorruptionWaveAttack_16: -8123390383908030621
+      Rylan_CorruptionWaveAttack_17: -811426677547983162
+      Rylan_CorruptionWaveAttack_18: 2021446395272146705
+      Rylan_CorruptionWaveAttack_19: 5677870970875696498
+      Rylan_CorruptionWaveAttack_2: 8553136123298997741
+      Rylan_CorruptionWaveAttack_20: 53074690051017731
+      Rylan_CorruptionWaveAttack_21: 3910913904553493113
+      Rylan_CorruptionWaveAttack_22: 463829096272377024
+      Rylan_CorruptionWaveAttack_23: -3495032511268471298
+      Rylan_CorruptionWaveAttack_24: 6798932314898951911
+      Rylan_CorruptionWaveAttack_25: -4033736471497178305
+      Rylan_CorruptionWaveAttack_26: 6062905525774910332
+      Rylan_CorruptionWaveAttack_27: 2843289866411704173
+      Rylan_CorruptionWaveAttack_28: 88791851890631359
+      Rylan_CorruptionWaveAttack_29: -5303100918041997015
+      Rylan_CorruptionWaveAttack_3: -3794759941386457189
+      Rylan_CorruptionWaveAttack_30: -431381735578662831
+      Rylan_CorruptionWaveAttack_31: -7549879071717913848
+      Rylan_CorruptionWaveAttack_32: -9125905888165745452
+      Rylan_CorruptionWaveAttack_4: -8847511107014347490
+      Rylan_CorruptionWaveAttack_5: 7668729570554662771
+      Rylan_CorruptionWaveAttack_6: 7614850562396833564
+      Rylan_CorruptionWaveAttack_7: -7784125977305069793
+      Rylan_CorruptionWaveAttack_8: 1559021837856676350
+      Rylan_CorruptionWaveAttack_9: 7444653739086327653
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

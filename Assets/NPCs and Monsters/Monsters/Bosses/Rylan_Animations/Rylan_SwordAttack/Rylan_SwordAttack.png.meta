@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: c543683cbc2fb08468fe4c2dbea8d4fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 949084001599080477
+    second: Rylan_SwordAttack_0
+  - first:
+      213: 7868174654993478165
+    second: Rylan_SwordAttack_1
+  - first:
+      213: -4193133875321297365
+    second: Rylan_SwordAttack_2
+  - first:
+      213: -627135505247568542
+    second: Rylan_SwordAttack_3
+  - first:
+      213: 3079828329807759075
+    second: Rylan_SwordAttack_4
+  - first:
+      213: -7634449816792594877
+    second: Rylan_SwordAttack_5
+  - first:
+      213: 4721207439733805965
+    second: Rylan_SwordAttack_6
+  - first:
+      213: -2124796411623502706
+    second: Rylan_SwordAttack_7
+  - first:
+      213: 946891302725786138
+    second: Rylan_SwordAttack_8
+  - first:
+      213: 5759555884952236145
+    second: Rylan_SwordAttack_9
+  - first:
+      213: -657319899389048137
+    second: Rylan_SwordAttack_10
+  - first:
+      213: -5415579124586473355
+    second: Rylan_SwordAttack_11
+  - first:
+      213: 929339260846952986
+    second: Rylan_SwordAttack_12
+  - first:
+      213: 7076469078624003248
+    second: Rylan_SwordAttack_13
+  - first:
+      213: 6091772158152593795
+    second: Rylan_SwordAttack_14
+  - first:
+      213: 3864263112431933720
+    second: Rylan_SwordAttack_15
+  - first:
+      213: -8746521512546568740
+    second: Rylan_SwordAttack_16
+  - first:
+      213: -494863014904138756
+    second: Rylan_SwordAttack_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rylan_SwordAttack_0
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 40
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18c159fed2db2d00800000000000000
+      internalID: 949084001599080477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_SwordAttack_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 37
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5123e9d492f513d60800000000000000
+      internalID: 7868174654993478165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_SwordAttack_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 51
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2621d1e4fefec5c0800000000000000
+      internalID: -4193133875321297365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_SwordAttack_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 55
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dfea7a497fb47f0800000000000000
+      internalID: -627135505247568542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_SwordAttack_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 48
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6406f5c8fbdba20800000000000000
+      internalID: 3079828329807759075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_SwordAttack_5
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 27
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3460886375cfc0690800000000000000
+      internalID: -7634449816792594877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_SwordAttack_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 27
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83d3440729158140800000000000000
+      internalID: 4721207439733805965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_SwordAttack_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 27
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c0829dbe43382e0800000000000000
+      internalID: -2124796411623502706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_SwordAttack_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 27
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a90eb7f98042d00800000000000000
+      internalID: 946891302725786138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_SwordAttack_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 27
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170b69adf8d0eef40800000000000000
+      internalID: 5759555884952236145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_SwordAttack_10
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 27
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bace1db80bb0e6f0800000000000000
+      internalID: -657319899389048137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_SwordAttack_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 27
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578900aaa7ff7d4b0800000000000000
+      internalID: -5415579124586473355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_SwordAttack_12
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 27
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a125b96422da5ec00800000000000000
+      internalID: 929339260846952986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_SwordAttack_13
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 27
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b46b6f522ba43260800000000000000
+      internalID: 7076469078624003248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_SwordAttack_14
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 27
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381dc4390825a8450800000000000000
+      internalID: 6091772158152593795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_SwordAttack_15
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 27
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8199627b3de90a530800000000000000
+      internalID: 3864263112431933720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_SwordAttack_16
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 27
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd57950860d1e9680800000000000000
+      internalID: -8746521512546568740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_SwordAttack_17
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 27
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3f828b5b4e129f0800000000000000
+      internalID: -494863014904138756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rylan_SwordAttack_0: 949084001599080477
+      Rylan_SwordAttack_1: 7868174654993478165
+      Rylan_SwordAttack_10: -657319899389048137
+      Rylan_SwordAttack_11: -5415579124586473355
+      Rylan_SwordAttack_12: 929339260846952986
+      Rylan_SwordAttack_13: 7076469078624003248
+      Rylan_SwordAttack_14: 6091772158152593795
+      Rylan_SwordAttack_15: 3864263112431933720
+      Rylan_SwordAttack_16: -8746521512546568740
+      Rylan_SwordAttack_17: -494863014904138756
+      Rylan_SwordAttack_2: -4193133875321297365
+      Rylan_SwordAttack_3: -627135505247568542
+      Rylan_SwordAttack_4: 3079828329807759075
+      Rylan_SwordAttack_5: -7634449816792594877
+      Rylan_SwordAttack_6: 4721207439733805965
+      Rylan_SwordAttack_7: -2124796411623502706
+      Rylan_SwordAttack_8: 946891302725786138
+      Rylan_SwordAttack_9: 5759555884952236145
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

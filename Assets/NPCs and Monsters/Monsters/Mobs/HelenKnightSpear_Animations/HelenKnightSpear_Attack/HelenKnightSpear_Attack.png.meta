@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: d1c560ebf85302e4bb94bdbbc8f13d65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3062386613188558378
+    second: HelenKnightSpear_Attack_0
+  - first:
+      213: 5367372447264127989
+    second: HelenKnightSpear_Attack_1
+  - first:
+      213: -4391965120860603570
+    second: HelenKnightSpear_Attack_2
+  - first:
+      213: -6923171548185001880
+    second: HelenKnightSpear_Attack_3
+  - first:
+      213: 7485533708877090617
+    second: HelenKnightSpear_Attack_4
+  - first:
+      213: 5667396906717782106
+    second: HelenKnightSpear_Attack_5
+  - first:
+      213: -5709897167296551582
+    second: HelenKnightSpear_Attack_6
+  - first:
+      213: -8304721261010285791
+    second: HelenKnightSpear_Attack_7
+  - first:
+      213: -3358988110737065618
+    second: HelenKnightSpear_Attack_8
+  - first:
+      213: -6666117144713375773
+    second: HelenKnightSpear_Attack_9
+  - first:
+      213: -3620654888467453999
+    second: HelenKnightSpear_Attack_10
+  - first:
+      213: 7145122493851430727
+    second: HelenKnightSpear_Attack_11
+  - first:
+      213: -7266484299960880387
+    second: HelenKnightSpear_Attack_12
+  - first:
+      213: -6702714742912500305
+    second: HelenKnightSpear_Attack_13
+  - first:
+      213: 7754979596347170203
+    second: HelenKnightSpear_Attack_14
+  - first:
+      213: 6506624881985587662
+    second: HelenKnightSpear_Attack_15
+  - first:
+      213: -5308480184653806248
+    second: HelenKnightSpear_Attack_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HelenKnightSpear_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 65
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ef3044668cf7a20800000000000000
+      internalID: 3062386613188558378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelenKnightSpear_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 65
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbb560adccbc7a40800000000000000
+      internalID: 5367372447264127989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelenKnightSpear_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 65
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bb2310efa9c03c0800000000000000
+      internalID: -4391965120860603570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelenKnightSpear_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 65
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860875f4824fbef90800000000000000
+      internalID: -6923171548185001880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelenKnightSpear_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 80
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fc4d78f35f1e760800000000000000
+      internalID: 7485533708877090617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelenKnightSpear_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 65
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50af02a573a6ae40800000000000000
+      internalID: 5667396906717782106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelenKnightSpear_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 65
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265a74757ce52c0b0800000000000000
+      internalID: -5709897167296551582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelenKnightSpear_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 65
+        width: 72
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b09de6304bfbc80800000000000000
+      internalID: -8304721261010285791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelenKnightSpear_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 65
+        width: 72
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69b1c62c1a7261d0800000000000000
+      internalID: -3358988110737065618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelenKnightSpear_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 65
+        width: 69
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efc73686c13d73a0800000000000000
+      internalID: -6666117144713375773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelenKnightSpear_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 65
+        width: 68
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7ad9edf89d0cdc0800000000000000
+      internalID: -3620654888467453999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelenKnightSpear_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 65
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74feaaa3d03982360800000000000000
+      internalID: 7145122493851430727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelenKnightSpear_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 65
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2f0e65703482b90800000000000000
+      internalID: -7266484299960880387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelenKnightSpear_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 65
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad3ded247c2bf2a0800000000000000
+      internalID: -6702714742912500305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelenKnightSpear_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 65
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ddca0fad83f9b60800000000000000
+      internalID: 7754979596347170203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelenKnightSpear_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 65
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec908794bdc2c4a50800000000000000
+      internalID: 6506624881985587662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelenKnightSpear_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 65
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8558288c56d7456b0800000000000000
+      internalID: -5308480184653806248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HelenKnightSpear_Attack_0: 3062386613188558378
+      HelenKnightSpear_Attack_1: 5367372447264127989
+      HelenKnightSpear_Attack_10: -3620654888467453999
+      HelenKnightSpear_Attack_11: 7145122493851430727
+      HelenKnightSpear_Attack_12: -7266484299960880387
+      HelenKnightSpear_Attack_13: -6702714742912500305
+      HelenKnightSpear_Attack_14: 7754979596347170203
+      HelenKnightSpear_Attack_15: 6506624881985587662
+      HelenKnightSpear_Attack_16: -5308480184653806248
+      HelenKnightSpear_Attack_2: -4391965120860603570
+      HelenKnightSpear_Attack_3: -6923171548185001880
+      HelenKnightSpear_Attack_4: 7485533708877090617
+      HelenKnightSpear_Attack_5: 5667396906717782106
+      HelenKnightSpear_Attack_6: -5709897167296551582
+      HelenKnightSpear_Attack_7: -8304721261010285791
+      HelenKnightSpear_Attack_8: -3358988110737065618
+      HelenKnightSpear_Attack_9: -6666117144713375773
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -127,13 +127,14 @@ public class PlayerMovements : MonoBehaviour
     public static PlayerInput input;
     public static PlayerInput PlayerInput;
     private BoxCollider2D box;
+    public static PlayerMovements instance { get; private set; }
 
     public bool isLimps = false;
     public bool canPressOnlyJump = false;
 
     void Awake()
     {
-        //instance = this;
+        instance = this;
 
         input = GetComponent<PlayerInput>();
         PlayerInput = GetComponent<PlayerInput>();
@@ -892,4 +893,10 @@ public class PlayerMovements : MonoBehaviour
         Gizmos.DrawWireCube(backWallCheckPoint.position, _wallCheckSize);
     }
     #endregion
+
+    public static void DeactivePlayerControls()
+    {
+        PlayerInput.currentActionMap.Disable();
+        Debug.Log("DISABLE ACTION MAP");
+    }
 }

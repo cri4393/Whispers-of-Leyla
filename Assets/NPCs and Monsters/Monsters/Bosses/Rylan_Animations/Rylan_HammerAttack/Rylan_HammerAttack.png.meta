@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 796840cd6cbf11d41b3bedc5aa6627eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6437934229734373894
+    second: Rylan_HammerAttack_0
+  - first:
+      213: 5755323499910072373
+    second: Rylan_HammerAttack_1
+  - first:
+      213: 4150946707901697728
+    second: Rylan_HammerAttack_2
+  - first:
+      213: 312034029396129757
+    second: Rylan_HammerAttack_3
+  - first:
+      213: -8386749716279397332
+    second: Rylan_HammerAttack_4
+  - first:
+      213: -5606308958759872269
+    second: Rylan_HammerAttack_5
+  - first:
+      213: 7885968632342047455
+    second: Rylan_HammerAttack_6
+  - first:
+      213: -33144548761806534
+    second: Rylan_HammerAttack_7
+  - first:
+      213: 1656046989668551248
+    second: Rylan_HammerAttack_8
+  - first:
+      213: -4936063123669989587
+    second: Rylan_HammerAttack_9
+  - first:
+      213: 1351776167875735199
+    second: Rylan_HammerAttack_10
+  - first:
+      213: 7382859400579337760
+    second: Rylan_HammerAttack_11
+  - first:
+      213: -8358431056998638906
+    second: Rylan_HammerAttack_12
+  - first:
+      213: 3367908917456086376
+    second: Rylan_HammerAttack_13
+  - first:
+      213: 4027283512468321070
+    second: Rylan_HammerAttack_14
+  - first:
+      213: 8617421141194822285
+    second: Rylan_HammerAttack_15
+  - first:
+      213: 4288330425062944566
+    second: Rylan_HammerAttack_16
+  - first:
+      213: 6973668662161828849
+    second: Rylan_HammerAttack_17
+  - first:
+      213: -6034007669923991813
+    second: Rylan_HammerAttack_18
+  - first:
+      213: -6370093103986759381
+    second: Rylan_HammerAttack_19
+  - first:
+      213: -7058423887018342002
+    second: Rylan_HammerAttack_20
+  - first:
+      213: -2297653632026702840
+    second: Rylan_HammerAttack_21
+  - first:
+      213: -8795290648564874334
+    second: Rylan_HammerAttack_22
+  - first:
+      213: -979965362704307304
+    second: Rylan_HammerAttack_23
+  - first:
+      213: -6154786683265951092
+    second: Rylan_HammerAttack_24
+  - first:
+      213: -758415591824773416
+    second: Rylan_HammerAttack_25
+  - first:
+      213: -486130726117610412
+    second: Rylan_HammerAttack_26
+  - first:
+      213: -9173968989313491577
+    second: Rylan_HammerAttack_27
+  - first:
+      213: -6093399115819780698
+    second: Rylan_HammerAttack_28
+  - first:
+      213: -6522361795024181862
+    second: Rylan_HammerAttack_29
+  - first:
+      213: -7039878863557747044
+    second: Rylan_HammerAttack_30
+  - first:
+      213: -1220769438350852653
+    second: Rylan_HammerAttack_31
+  - first:
+      213: -2779240671405821863
+    second: Rylan_HammerAttack_32
+  - first:
+      213: -6062640470341922191
+    second: Rylan_HammerAttack_33
+  - first:
+      213: 5074423736033482534
+    second: Rylan_HammerAttack_34
+  - first:
+      213: -4892484211813621061
+    second: Rylan_HammerAttack_35
+  - first:
+      213: -7973479937540529457
+    second: Rylan_HammerAttack_36
+  - first:
+      213: 7661485026644778533
+    second: Rylan_HammerAttack_37
+  - first:
+      213: 8133584904961135424
+    second: Rylan_HammerAttack_38
+  - first:
+      213: 8261062757880264801
+    second: Rylan_HammerAttack_39
+  - first:
+      213: 4086896966581950893
+    second: Rylan_HammerAttack_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_0
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 43
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5ca5d7decd7a6a0800000000000000
+      internalID: -6437934229734373894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_1
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 80
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538099bea340fdf40800000000000000
+      internalID: 5755323499910072373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_2
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 63
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cece06c9002b9930800000000000000
+      internalID: 4150946707901697728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_3
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 43
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd77df7eb41945400800000000000000
+      internalID: 312034029396129757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_4
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 63
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24fe0561974c9b80800000000000000
+      internalID: -8386749716279397332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_5
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 80
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8170c94b36232b0800000000000000
+      internalID: -5606308958759872269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_6
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 43
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdaee9080b6907d60800000000000000
+      internalID: 7885968632342047455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_7
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 80
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39dfc0653f3a8ff0800000000000000
+      internalID: -33144548761806534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_8
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 63
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a8c8686f57bf610800000000000000
+      internalID: 1656046989668551248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 43
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27cebccdb49f7bb0800000000000000
+      internalID: -4936063123669989587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 43
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e621e334972c210800000000000000
+      internalID: 1351776167875735199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 43
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e4f2e328f257660800000000000000
+      internalID: 7382859400579337760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 43
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cad0001d33e00c80800000000000000
+      internalID: -8358431056998638906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_13
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 43
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86527d401573dbe20800000000000000
+      internalID: 3367908917456086376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_14
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 43
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2336726409c3e730800000000000000
+      internalID: 4027283512468321070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_15
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 43
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82dbd0feda379770800000000000000
+      internalID: 8617421141194822285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_16
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 43
+        width: 55
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f60611dc5338b30800000000000000
+      internalID: 4288330425062944566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_17
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 43
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbed6d33b277c060800000000000000
+      internalID: 6973668662161828849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_18
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 51
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfea2366ef5e24ca0800000000000000
+      internalID: -6034007669923991813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_19
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 43
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2924b67212e897a0800000000000000
+      internalID: -6370093103986759381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_20
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 43
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89c3243fd07b0e90800000000000000
+      internalID: -7058423887018342002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_21
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 59
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c8926f1381d10e0800000000000000
+      internalID: -2297653632026702840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_22
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 58
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3c9fb21c9d0f580800000000000000
+      internalID: -8795290648564874334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_23
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 43
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ba2d7d1b67662f0800000000000000
+      internalID: -979965362704307304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_24
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 43
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ad0abfe1ec59aa0800000000000000
+      internalID: -6154786683265951092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_25
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 43
+        width: 55
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deaa2999019975f0800000000000000
+      internalID: -758415591824773416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_26
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 43
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c6b532eaae049f0800000000000000
+      internalID: -486130726117610412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_27
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 51
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d158b5fc38fa080800000000000000
+      internalID: -9173968989313491577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_28
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 43
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5f1e2d9c5ef6ba0800000000000000
+      internalID: -6093399115819780698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_29
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 58
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95210f118aeb75a0800000000000000
+      internalID: -6522361795024181862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_30
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 43
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e1cd3f8735d4e90800000000000000
+      internalID: -7039878863557747044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_31
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 59
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddb17ae9a4fe0fe0800000000000000
+      internalID: -1220769438350852653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_32
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 43
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950b98b95572e69d0800000000000000
+      internalID: -2779240671405821863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_33
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 43
+        width: 55
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172dc5c0d9c2ddba0800000000000000
+      internalID: -6062640470341922191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_34
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 43
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6271612a089fb6640800000000000000
+      internalID: 5074423736033482534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_35
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 51
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb264a5e7876a1cb0800000000000000
+      internalID: -4892484211813621061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_36
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 43
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2613bfd32885190800000000000000
+      internalID: -7973479937540529457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_37
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 43
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ed2291a00135a60800000000000000
+      internalID: 7661485026644778533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_38
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 59
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04310b2a06c40e070800000000000000
+      internalID: 8133584904961135424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_39
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 58
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16879ae2fc035a270800000000000000
+      internalID: 8261062757880264801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_HammerAttack_40
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 43
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da91db6432397b830800000000000000
+      internalID: 4086896966581950893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rylan_HammerAttack_0: -6437934229734373894
+      Rylan_HammerAttack_1: 5755323499910072373
+      Rylan_HammerAttack_10: 1351776167875735199
+      Rylan_HammerAttack_11: 7382859400579337760
+      Rylan_HammerAttack_12: -8358431056998638906
+      Rylan_HammerAttack_13: 3367908917456086376
+      Rylan_HammerAttack_14: 4027283512468321070
+      Rylan_HammerAttack_15: 8617421141194822285
+      Rylan_HammerAttack_16: 4288330425062944566
+      Rylan_HammerAttack_17: 6973668662161828849
+      Rylan_HammerAttack_18: -6034007669923991813
+      Rylan_HammerAttack_19: -6370093103986759381
+      Rylan_HammerAttack_2: 4150946707901697728
+      Rylan_HammerAttack_20: -7058423887018342002
+      Rylan_HammerAttack_21: -2297653632026702840
+      Rylan_HammerAttack_22: -8795290648564874334
+      Rylan_HammerAttack_23: -979965362704307304
+      Rylan_HammerAttack_24: -6154786683265951092
+      Rylan_HammerAttack_25: -758415591824773416
+      Rylan_HammerAttack_26: -486130726117610412
+      Rylan_HammerAttack_27: -9173968989313491577
+      Rylan_HammerAttack_28: -6093399115819780698
+      Rylan_HammerAttack_29: -6522361795024181862
+      Rylan_HammerAttack_3: 312034029396129757
+      Rylan_HammerAttack_30: -7039878863557747044
+      Rylan_HammerAttack_31: -1220769438350852653
+      Rylan_HammerAttack_32: -2779240671405821863
+      Rylan_HammerAttack_33: -6062640470341922191
+      Rylan_HammerAttack_34: 5074423736033482534
+      Rylan_HammerAttack_35: -4892484211813621061
+      Rylan_HammerAttack_36: -7973479937540529457
+      Rylan_HammerAttack_37: 7661485026644778533
+      Rylan_HammerAttack_38: 8133584904961135424
+      Rylan_HammerAttack_39: 8261062757880264801
+      Rylan_HammerAttack_4: -8386749716279397332
+      Rylan_HammerAttack_40: 4086896966581950893
+      Rylan_HammerAttack_5: -5606308958759872269
+      Rylan_HammerAttack_6: 7885968632342047455
+      Rylan_HammerAttack_7: -33144548761806534
+      Rylan_HammerAttack_8: 1656046989668551248
+      Rylan_HammerAttack_9: -4936063123669989587
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

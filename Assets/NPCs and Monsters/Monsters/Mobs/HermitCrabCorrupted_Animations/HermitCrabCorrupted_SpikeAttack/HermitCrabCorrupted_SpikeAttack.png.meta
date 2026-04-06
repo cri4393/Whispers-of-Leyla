@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 0c19dc0e994826f40b30a067ee77e94f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5696100019635820684
+    second: HermitCrabCorrupted_SpikeAttack_0
+  - first:
+      213: -9096027603132942972
+    second: HermitCrabCorrupted_SpikeAttack_1
+  - first:
+      213: 469034640871248261
+    second: HermitCrabCorrupted_SpikeAttack_2
+  - first:
+      213: 5725052958154582765
+    second: HermitCrabCorrupted_SpikeAttack_3
+  - first:
+      213: -8968376168515598493
+    second: HermitCrabCorrupted_SpikeAttack_4
+  - first:
+      213: -6209011709188919429
+    second: HermitCrabCorrupted_SpikeAttack_5
+  - first:
+      213: 3423531740074042909
+    second: HermitCrabCorrupted_SpikeAttack_6
+  - first:
+      213: -1021156279928828722
+    second: HermitCrabCorrupted_SpikeAttack_7
+  - first:
+      213: -5224755531832703757
+    second: HermitCrabCorrupted_SpikeAttack_8
+  - first:
+      213: -4848463475324872868
+    second: HermitCrabCorrupted_SpikeAttack_9
+  - first:
+      213: -1803286038632422760
+    second: HermitCrabCorrupted_SpikeAttack_10
+  - first:
+      213: 1091988540285028439
+    second: HermitCrabCorrupted_SpikeAttack_11
+  - first:
+      213: -2610023726973420413
+    second: HermitCrabCorrupted_SpikeAttack_12
+  - first:
+      213: -3893306683445069972
+    second: HermitCrabCorrupted_SpikeAttack_13
+  - first:
+      213: -3769990494448650415
+    second: HermitCrabCorrupted_SpikeAttack_14
+  - first:
+      213: 5660062570509672473
+    second: HermitCrabCorrupted_SpikeAttack_15
+  - first:
+      213: 5585038182886497211
+    second: HermitCrabCorrupted_SpikeAttack_16
+  - first:
+      213: -428560854721814181
+    second: HermitCrabCorrupted_SpikeAttack_17
+  - first:
+      213: 8028637401302981426
+    second: HermitCrabCorrupted_SpikeAttack_18
+  - first:
+      213: 93108874878945402
+    second: HermitCrabCorrupted_SpikeAttack_19
+  - first:
+      213: -5012460140183995753
+    second: HermitCrabCorrupted_SpikeAttack_20
+  - first:
+      213: -3155916184626637409
+    second: HermitCrabCorrupted_SpikeAttack_21
+  - first:
+      213: 6796981828637899817
+    second: HermitCrabCorrupted_SpikeAttack_22
+  - first:
+      213: -7341752109967212084
+    second: HermitCrabCorrupted_SpikeAttack_23
+  - first:
+      213: -2564455141384080375
+    second: HermitCrabCorrupted_SpikeAttack_24
+  - first:
+      213: 3845538006864074017
+    second: HermitCrabCorrupted_SpikeAttack_25
+  - first:
+      213: 7818697027382058307
+    second: HermitCrabCorrupted_SpikeAttack_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c881d73e9cc9c0f40800000000000000
+      internalID: 5696100019635820684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485fc18761b64c180800000000000000
+      internalID: -9096027603132942972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581db745588528600800000000000000
+      internalID: 469034640871248261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea6a133559737f40800000000000000
+      internalID: 5725052958154582765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3678c87246de98380800000000000000
+      internalID: -8968376168515598493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fad8b4fb825d9a0800000000000000
+      internalID: -6209011709188919429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16636c9af3d28f20800000000000000
+      internalID: 3423531740074042909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecccea216cf14d1f0800000000000000
+      internalID: -1021156279928828722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_8
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4cad69680fd77b0800000000000000
+      internalID: -5224755531832703757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_9
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c571ece482cc6bcb0800000000000000
+      internalID: -4848463475324872868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892a4eee6e079f6e0800000000000000
+      internalID: -1803286038632422760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7588c72bac5872f00800000000000000
+      internalID: 1091988540285028439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_12
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c7862bf3557cbd0800000000000000
+      internalID: -2610023726973420413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_13
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c673a93f23238f9c0800000000000000
+      internalID: -3893306683445069972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_14
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157f9cb9e9d4eabc0800000000000000
+      internalID: -3769990494448650415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_15
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910a6b96be49c8e40800000000000000
+      internalID: 5660062570509672473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_16
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb51f3f2aa028d40800000000000000
+      internalID: 5585038182886497211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_17
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b512ba95c227d0af0800000000000000
+      internalID: -428560854721814181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_18
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b541fcd237b6f60800000000000000
+      internalID: 8028637401302981426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_19
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a788894470aca4100800000000000000
+      internalID: 93108874878945402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_20
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a37854f0a207ab0800000000000000
+      internalID: -5012460140183995753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_21
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f955c6a63fee334d0800000000000000
+      internalID: -3155916184626637409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_22
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c3fb016fab35e50800000000000000
+      internalID: 6796981828637899817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_23
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc10e60ba5bdc1a90800000000000000
+      internalID: -7341752109967212084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_24
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904b06fc2a9396cd0800000000000000
+      internalID: -2564455141384080375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_25
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125956551781e5530800000000000000
+      internalID: 3845538006864074017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HermitCrabCorrupted_SpikeAttack_26
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 0
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d928b6587918c60800000000000000
+      internalID: 7818697027382058307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HermitCrabCorrupted_SpikeAttack_0: 5696100019635820684
+      HermitCrabCorrupted_SpikeAttack_1: -9096027603132942972
+      HermitCrabCorrupted_SpikeAttack_10: -1803286038632422760
+      HermitCrabCorrupted_SpikeAttack_11: 1091988540285028439
+      HermitCrabCorrupted_SpikeAttack_12: -2610023726973420413
+      HermitCrabCorrupted_SpikeAttack_13: -3893306683445069972
+      HermitCrabCorrupted_SpikeAttack_14: -3769990494448650415
+      HermitCrabCorrupted_SpikeAttack_15: 5660062570509672473
+      HermitCrabCorrupted_SpikeAttack_16: 5585038182886497211
+      HermitCrabCorrupted_SpikeAttack_17: -428560854721814181
+      HermitCrabCorrupted_SpikeAttack_18: 8028637401302981426
+      HermitCrabCorrupted_SpikeAttack_19: 93108874878945402
+      HermitCrabCorrupted_SpikeAttack_2: 469034640871248261
+      HermitCrabCorrupted_SpikeAttack_20: -5012460140183995753
+      HermitCrabCorrupted_SpikeAttack_21: -3155916184626637409
+      HermitCrabCorrupted_SpikeAttack_22: 6796981828637899817
+      HermitCrabCorrupted_SpikeAttack_23: -7341752109967212084
+      HermitCrabCorrupted_SpikeAttack_24: -2564455141384080375
+      HermitCrabCorrupted_SpikeAttack_25: 3845538006864074017
+      HermitCrabCorrupted_SpikeAttack_26: 7818697027382058307
+      HermitCrabCorrupted_SpikeAttack_3: 5725052958154582765
+      HermitCrabCorrupted_SpikeAttack_4: -8968376168515598493
+      HermitCrabCorrupted_SpikeAttack_5: -6209011709188919429
+      HermitCrabCorrupted_SpikeAttack_6: 3423531740074042909
+      HermitCrabCorrupted_SpikeAttack_7: -1021156279928828722
+      HermitCrabCorrupted_SpikeAttack_8: -5224755531832703757
+      HermitCrabCorrupted_SpikeAttack_9: -4848463475324872868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

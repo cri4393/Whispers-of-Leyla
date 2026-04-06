@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: df82163468934634f8679e32a4312f65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5435807755467720391
+    second: Rylan_UndergroundAttack_Arm_0
+  - first:
+      213: 3615406248866886589
+    second: Rylan_UndergroundAttack_Arm_1
+  - first:
+      213: 6881698178508111642
+    second: Rylan_UndergroundAttack_Arm_2
+  - first:
+      213: 4976711225755889469
+    second: Rylan_UndergroundAttack_Arm_3
+  - first:
+      213: 1723491286349738719
+    second: Rylan_UndergroundAttack_Arm_4
+  - first:
+      213: -6064585552840027927
+    second: Rylan_UndergroundAttack_Arm_5
+  - first:
+      213: 4687916641900454488
+    second: Rylan_UndergroundAttack_Arm_6
+  - first:
+      213: -7036854988876646501
+    second: Rylan_UndergroundAttack_Arm_7
+  - first:
+      213: 3286010396065398978
+    second: Rylan_UndergroundAttack_Arm_8
+  - first:
+      213: 6987289241020064446
+    second: Rylan_UndergroundAttack_Arm_9
+  - first:
+      213: -4806995763927682693
+    second: Rylan_UndergroundAttack_Arm_10
+  - first:
+      213: -2806753418987884334
+    second: Rylan_UndergroundAttack_Arm_11
+  - first:
+      213: 8563032448821735582
+    second: Rylan_UndergroundAttack_Arm_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rylan_UndergroundAttack_Arm_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 44
+        width: 194
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939780485a12094b0800000000000000
+      internalID: -5435807755467720391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_UndergroundAttack_Arm_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 44
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3307ef3d08c2230800000000000000
+      internalID: 3615406248866886589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_UndergroundAttack_Arm_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 44
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fbd655804b08f50800000000000000
+      internalID: 6881698178508111642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_UndergroundAttack_Arm_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 44
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fe0e8fd74d01540800000000000000
+      internalID: 4976711225755889469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_UndergroundAttack_Arm_4
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 44
+        width: 9
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd27b5881321be710800000000000000
+      internalID: 1723491286349738719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_UndergroundAttack_Arm_5
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 44
+        width: 9
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0110d329346dba0800000000000000
+      internalID: -6064585552840027927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_UndergroundAttack_Arm_6
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 44
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8526e112953de0140800000000000000
+      internalID: 4687916641900454488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_UndergroundAttack_Arm_7
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 44
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b977214aba1185e90800000000000000
+      internalID: -7036854988876646501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_UndergroundAttack_Arm_8
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 44
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c008b19b014a9d20800000000000000
+      internalID: 3286010396065398978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_UndergroundAttack_Arm_9
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 44
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2e8e16b86d7f060800000000000000
+      internalID: 6987289241020064446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_UndergroundAttack_Arm_10
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 44
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71784e32de1a4db0800000000000000
+      internalID: -4806995763927682693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_UndergroundAttack_Arm_11
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 44
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d03d11e2a86c09d0800000000000000
+      internalID: -2806753418987884334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rylan_UndergroundAttack_Arm_12
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 44
+        width: 70
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90b920b4a006d670800000000000000
+      internalID: 8563032448821735582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rylan_UndergroundAttack_Arm_0: -5435807755467720391
+      Rylan_UndergroundAttack_Arm_1: 3615406248866886589
+      Rylan_UndergroundAttack_Arm_10: -4806995763927682693
+      Rylan_UndergroundAttack_Arm_11: -2806753418987884334
+      Rylan_UndergroundAttack_Arm_12: 8563032448821735582
+      Rylan_UndergroundAttack_Arm_2: 6881698178508111642
+      Rylan_UndergroundAttack_Arm_3: 4976711225755889469
+      Rylan_UndergroundAttack_Arm_4: 1723491286349738719
+      Rylan_UndergroundAttack_Arm_5: -6064585552840027927
+      Rylan_UndergroundAttack_Arm_6: 4687916641900454488
+      Rylan_UndergroundAttack_Arm_7: -7036854988876646501
+      Rylan_UndergroundAttack_Arm_8: 3286010396065398978
+      Rylan_UndergroundAttack_Arm_9: 6987289241020064446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

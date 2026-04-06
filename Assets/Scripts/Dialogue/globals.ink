@@ -1,0 +1,17 @@
+VAR pokemon_name = ""
+VAR shopOpen = false
+VAR bankOpen = false
+
+VAR completed = false
+VAR recieveReward = false
+VAR alreadyReciveReward = false
+VAR altarQuest = false
+
+VAR altarQuest2 = false
+VAR completed2 = false
+VAR recieveReward2 = false
+VAR alreadyReciveReward2 = false
+
+VAR collide = false
+
+EXTERNAL playEmote(emoteName)
