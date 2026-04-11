@@ -40,7 +40,7 @@ public class GameData
     public bool hasShowedColorTutorial;
     public bool hasSavedInNightmare;
 
-    // public SerializableDictionary<string, bool> coinsCollected;
+    public SerializableDictionary<string, bool> coinsCollected;
     // public SerializableDictionary<Item, bool> itemCollected;
     // public SerializableDictionary<Quest, bool> questCollected;
     // public SerializableDictionary<Memories, bool> memoriesCollected;
@@ -132,7 +132,7 @@ public class GameData
 
         // currentMantleEquip = "";
     }
-    /*
+
     public int GetPercentageComplete() 
     {
         // figure out how many coins we've collected
@@ -153,5 +153,5 @@ public class GameData
         }
         return percentageCompleted;
     }
-    */
+
 }

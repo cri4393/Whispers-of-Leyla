@@ -7,7 +7,7 @@ using UnityEngine.EventSystems;
 using UnityEngine.Audio;
 using UnityEngine.InputSystem;
 
-public class DialogueManager : MonoBehaviour
+public class DialogueManager : MonoBehaviour, IDataPersistence
 {
     [Header("Params")]
     [SerializeField] private float typingSpeed = 0.04f;
@@ -62,8 +62,6 @@ public class DialogueManager : MonoBehaviour
             Debug.LogWarning("Found more than one Dialogue Manager in the scene");
         }
         instance = this;
-
-        //dialogueVariables = new DialogueVariables(loadGlobalsJSON);
 
         inkExternalFunctions = new InkExternalFunctions();
 

@@ -1,7 +1,7 @@
 -> Main
 
 === Main ===
-This #layout:left #speaker:Iris #portrait:Iris_neutral
+This 
 is
 a 
 test.
