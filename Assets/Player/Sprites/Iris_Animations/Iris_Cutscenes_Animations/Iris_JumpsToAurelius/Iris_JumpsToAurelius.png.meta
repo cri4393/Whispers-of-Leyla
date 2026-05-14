@@ -1,0 +1,2899 @@
+fileFormatVersion: 2
+guid: 2215eaa2b7f4eb94793fd0fc8103f4bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4842142465198943800
+    second: Iris_JumpsToAurelius_0
+  - first:
+      213: -4614748726454468726
+    second: Iris_JumpsToAurelius_1
+  - first:
+      213: 8462905849144685470
+    second: Iris_JumpsToAurelius_2
+  - first:
+      213: 2085558559375507602
+    second: Iris_JumpsToAurelius_3
+  - first:
+      213: -3962811006103154372
+    second: Iris_JumpsToAurelius_4
+  - first:
+      213: -7410347064447339728
+    second: Iris_JumpsToAurelius_5
+  - first:
+      213: 1414359204066716905
+    second: Iris_JumpsToAurelius_6
+  - first:
+      213: 8297065357698100893
+    second: Iris_JumpsToAurelius_7
+  - first:
+      213: 3387987017061285396
+    second: Iris_JumpsToAurelius_8
+  - first:
+      213: -2087937698208344019
+    second: Iris_JumpsToAurelius_9
+  - first:
+      213: 3004793567567844552
+    second: Iris_JumpsToAurelius_10
+  - first:
+      213: 3904739695871244283
+    second: Iris_JumpsToAurelius_11
+  - first:
+      213: 3448971330580905971
+    second: Iris_JumpsToAurelius_12
+  - first:
+      213: 1810673683533472241
+    second: Iris_JumpsToAurelius_13
+  - first:
+      213: -4001505163554899999
+    second: Iris_JumpsToAurelius_14
+  - first:
+      213: 5698250468677591735
+    second: Iris_JumpsToAurelius_15
+  - first:
+      213: 1291984193703002414
+    second: Iris_JumpsToAurelius_16
+  - first:
+      213: -6311733086427030332
+    second: Iris_JumpsToAurelius_17
+  - first:
+      213: 8164254879973679634
+    second: Iris_JumpsToAurelius_18
+  - first:
+      213: -1062868175828718689
+    second: Iris_JumpsToAurelius_19
+  - first:
+      213: -5906220319572695360
+    second: Iris_JumpsToAurelius_20
+  - first:
+      213: 5690134576941497250
+    second: Iris_JumpsToAurelius_21
+  - first:
+      213: -3938125104410729639
+    second: Iris_JumpsToAurelius_22
+  - first:
+      213: -1612063589085239760
+    second: Iris_JumpsToAurelius_23
+  - first:
+      213: 1621681612303834931
+    second: Iris_JumpsToAurelius_24
+  - first:
+      213: 3349656573794090032
+    second: Iris_JumpsToAurelius_25
+  - first:
+      213: 6182459372376974639
+    second: Iris_JumpsToAurelius_26
+  - first:
+      213: -5282185096682235897
+    second: Iris_JumpsToAurelius_27
+  - first:
+      213: 1291987645568577212
+    second: Iris_JumpsToAurelius_28
+  - first:
+      213: 7211389625918199821
+    second: Iris_JumpsToAurelius_29
+  - first:
+      213: 8681634116308755537
+    second: Iris_JumpsToAurelius_30
+  - first:
+      213: 2845575053516103015
+    second: Iris_JumpsToAurelius_31
+  - first:
+      213: 7164677530786009397
+    second: Iris_JumpsToAurelius_32
+  - first:
+      213: -2143523734689368185
+    second: Iris_JumpsToAurelius_33
+  - first:
+      213: 9008426040837248307
+    second: Iris_JumpsToAurelius_34
+  - first:
+      213: 7577911118702971496
+    second: Iris_JumpsToAurelius_35
+  - first:
+      213: 3974958460950230196
+    second: Iris_JumpsToAurelius_36
+  - first:
+      213: 6495761138577134516
+    second: Iris_JumpsToAurelius_37
+  - first:
+      213: -2429675402842847033
+    second: Iris_JumpsToAurelius_38
+  - first:
+      213: -684340032147557554
+    second: Iris_JumpsToAurelius_39
+  - first:
+      213: 8699916999509312284
+    second: Iris_JumpsToAurelius_40
+  - first:
+      213: 7922923671019001278
+    second: Iris_JumpsToAurelius_41
+  - first:
+      213: 67188430669061871
+    second: Iris_JumpsToAurelius_42
+  - first:
+      213: 3443676367578508697
+    second: Iris_JumpsToAurelius_43
+  - first:
+      213: -653385430363010994
+    second: Iris_JumpsToAurelius_44
+  - first:
+      213: -3774829769000463556
+    second: Iris_JumpsToAurelius_45
+  - first:
+      213: -7226091030734740649
+    second: Iris_JumpsToAurelius_46
+  - first:
+      213: -1939506134532721191
+    second: Iris_JumpsToAurelius_47
+  - first:
+      213: -2639681629533807466
+    second: Iris_JumpsToAurelius_48
+  - first:
+      213: 4552029415436694025
+    second: Iris_JumpsToAurelius_49
+  - first:
+      213: 7336870590433055324
+    second: Iris_JumpsToAurelius_50
+  - first:
+      213: 4143618818188743113
+    second: Iris_JumpsToAurelius_51
+  - first:
+      213: -7777394124281746484
+    second: Iris_JumpsToAurelius_52
+  - first:
+      213: 407713692521303046
+    second: Iris_JumpsToAurelius_53
+  - first:
+      213: 3143825191948699214
+    second: Iris_JumpsToAurelius_54
+  - first:
+      213: -210188090709703881
+    second: Iris_JumpsToAurelius_55
+  - first:
+      213: 7146542370213778157
+    second: Iris_JumpsToAurelius_56
+  - first:
+      213: 3101124192985013491
+    second: Iris_JumpsToAurelius_57
+  - first:
+      213: 7680719557237277575
+    second: Iris_JumpsToAurelius_58
+  - first:
+      213: 8814992451319979222
+    second: Iris_JumpsToAurelius_59
+  - first:
+      213: -1490468095819097278
+    second: Iris_JumpsToAurelius_60
+  - first:
+      213: 5354264269426752485
+    second: Iris_JumpsToAurelius_61
+  - first:
+      213: -3231028101033393896
+    second: Iris_JumpsToAurelius_62
+  - first:
+      213: -7566318555092533601
+    second: Iris_JumpsToAurelius_63
+  - first:
+      213: -6505085730950045751
+    second: Iris_JumpsToAurelius_64
+  - first:
+      213: -4968552351836825934
+    second: Iris_JumpsToAurelius_65
+  - first:
+      213: -5957708865483844683
+    second: Iris_JumpsToAurelius_66
+  - first:
+      213: -7939719368909873847
+    second: Iris_JumpsToAurelius_67
+  - first:
+      213: 669215891347450801
+    second: Iris_JumpsToAurelius_68
+  - first:
+      213: 1184343562565253909
+    second: Iris_JumpsToAurelius_69
+  - first:
+      213: 7858961955725335469
+    second: Iris_JumpsToAurelius_70
+  - first:
+      213: -1375000702962014034
+    second: Iris_JumpsToAurelius_71
+  - first:
+      213: -5009582000010606613
+    second: Iris_JumpsToAurelius_72
+  - first:
+      213: 3057891323700455115
+    second: Iris_JumpsToAurelius_73
+  - first:
+      213: 1219803996134835362
+    second: Iris_JumpsToAurelius_74
+  - first:
+      213: 4724421135735587215
+    second: Iris_JumpsToAurelius_75
+  - first:
+      213: 7772753377153445115
+    second: Iris_JumpsToAurelius_76
+  - first:
+      213: 1132834113926410837
+    second: Iris_JumpsToAurelius_77
+  - first:
+      213: 7650583351970379659
+    second: Iris_JumpsToAurelius_78
+  - first:
+      213: 9191978658151430630
+    second: Iris_JumpsToAurelius_79
+  - first:
+      213: -8913094647083207751
+    second: Iris_JumpsToAurelius_80
+  - first:
+      213: -8945631503895499235
+    second: Iris_JumpsToAurelius_81
+  - first:
+      213: -1949208592926162061
+    second: Iris_JumpsToAurelius_82
+  - first:
+      213: -126794689632856058
+    second: Iris_JumpsToAurelius_83
+  - first:
+      213: 1389561890529075547
+    second: Iris_JumpsToAurelius_84
+  - first:
+      213: -8050680701784061858
+    second: Iris_JumpsToAurelius_85
+  - first:
+      213: 2956435593417403730
+    second: Iris_JumpsToAurelius_86
+  - first:
+      213: -2990163929750615995
+    second: Iris_JumpsToAurelius_87
+  - first:
+      213: 726986676162135011
+    second: Iris_JumpsToAurelius_88
+  - first:
+      213: 6879987177465097593
+    second: Iris_JumpsToAurelius_89
+  - first:
+      213: 8105782964255275943
+    second: Iris_JumpsToAurelius_90
+  - first:
+      213: -4524851110356914567
+    second: Iris_JumpsToAurelius_91
+  - first:
+      213: -8396941943414181777
+    second: Iris_JumpsToAurelius_92
+  - first:
+      213: -7675286841654189417
+    second: Iris_JumpsToAurelius_93
+  - first:
+      213: -3893761415051525927
+    second: Iris_JumpsToAurelius_94
+  - first:
+      213: 6321973556375976930
+    second: Iris_JumpsToAurelius_95
+  - first:
+      213: 1553022290481619685
+    second: Iris_JumpsToAurelius_96
+  - first:
+      213: 2831588613234481556
+    second: Iris_JumpsToAurelius_97
+  - first:
+      213: -7488891434988788289
+    second: Iris_JumpsToAurelius_98
+  - first:
+      213: -814653409089226240
+    second: Iris_JumpsToAurelius_99
+  - first:
+      213: 5392388270323105352
+    second: Iris_JumpsToAurelius_100
+  - first:
+      213: 6925671344053209675
+    second: Iris_JumpsToAurelius_101
+  - first:
+      213: 811630461498196409
+    second: Iris_JumpsToAurelius_102
+  - first:
+      213: -4712852904434840964
+    second: Iris_JumpsToAurelius_103
+  - first:
+      213: -5779016758302339853
+    second: Iris_JumpsToAurelius_104
+  - first:
+      213: 8367016508898838093
+    second: Iris_JumpsToAurelius_105
+  - first:
+      213: -1355506021789084356
+    second: Iris_JumpsToAurelius_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 23
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e6406daeeb23340800000000000000
+      internalID: 4842142465198943800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 14
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fbef7bb7e15ffb0800000000000000
+      internalID: -4614748726454468726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 23
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9338d90808427570800000000000000
+      internalID: 8462905849144685470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 9
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2904ad1c57461fc10800000000000000
+      internalID: 2085558559375507602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 4
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c319635c2644109c0800000000000000
+      internalID: -3962811006103154372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 3
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033f1494b98292990800000000000000
+      internalID: -7410347064447339728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 3
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec6337d330d0a310800000000000000
+      internalID: 1414359204066716905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_7
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 4
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e6bcbabf8152370800000000000000
+      internalID: 8297065357698100893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_8
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41eb29fdd3c840f20800000000000000
+      internalID: 3387987017061285396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_9
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 7
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d281521d9b72603e0800000000000000
+      internalID: -2087937698208344019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_10
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 7
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4924264db23b920800000000000000
+      internalID: 3004793567567844552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_11
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 11
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7b5c0b01c603630800000000000000
+      internalID: 3904739695871244283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_12
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 11
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fff7c7d6253ddf20800000000000000
+      internalID: 3448971330580905971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_13
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 14
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1292f2f1ec02910800000000000000
+      internalID: 1810673683533472241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_14
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 14
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e73b6f214cc778c0800000000000000
+      internalID: -4001505163554899999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_15
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 16
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b22bb25c90441f40800000000000000
+      internalID: 5698250468677591735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_16
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 20
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21461967cc0ee110800000000000000
+      internalID: 1291984193703002414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_17
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 21
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccdf6ae2383868a0800000000000000
+      internalID: -6311733086427030332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_18
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 21
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212a498ae824d4170800000000000000
+      internalID: 8164254879973679634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_19
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 21
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b69a0860fef31f0800000000000000
+      internalID: -1062868175828718689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_20
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 23
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6ecae69e3e80ea0800000000000000
+      internalID: -5906220319572695360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_21
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 24
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abf3c6004b67fe40800000000000000
+      internalID: 5690134576941497250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_22
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 24
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953ec862518f859c0800000000000000
+      internalID: -3938125104410729639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_23
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 24
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036ab31f4bcc0a9e0800000000000000
+      internalID: -1612063589085239760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_24
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 26
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f172895de518610800000000000000
+      internalID: 1621681612303834931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_25
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 27
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c7c8818ee5c7e20800000000000000
+      internalID: 3349656573794090032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_26
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 29
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2560d80b028cc550800000000000000
+      internalID: 6182459372376974639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_27
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 28
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708946a04a8e1b6b0800000000000000
+      internalID: -5282185096682235897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_28
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 28
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeee4c1bef0ee110800000000000000
+      internalID: 1291987645568577212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_29
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 27
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d089acd38a0041460800000000000000
+      internalID: 7211389625918199821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_30
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 31
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154ee744b3c5b7870800000000000000
+      internalID: 8681634116308755537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_31
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 31
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d5a864f638d7720800000000000000
+      internalID: 2845575053516103015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_32
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 31
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53119b0114c0e6360800000000000000
+      internalID: 7164677530786009397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_33
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 31
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787b83a258ca042e0800000000000000
+      internalID: -2143523734689368185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_34
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 31
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3359b7561cb540d70800000000000000
+      internalID: 9008426040837248307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_35
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 31
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a06c153062a2960800000000000000
+      internalID: 7577911118702971496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_36
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 31
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b43fd5f8a3e92730800000000000000
+      internalID: 3974958460950230196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_37
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 31
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b35daae654952a50800000000000000
+      internalID: 6495761138577134516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_38
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 31
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c84c06181f084ed0800000000000000
+      internalID: -2429675402842847033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_39
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 31
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43f346dd5cb086f0800000000000000
+      internalID: -684340032147557554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_40
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 31
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13822bba605cb870800000000000000
+      internalID: 8699916999509312284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_41
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 31
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb51f91f911e3fd60800000000000000
+      internalID: 7922923671019001278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_42
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 31
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee9b0f8583bee000800000000000000
+      internalID: 67188430669061871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_43
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 31
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dace239656acf20800000000000000
+      internalID: 3443676367578508697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_44
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 31
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e480cc1b965bee6f0800000000000000
+      internalID: -653385430363010994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_45
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 31
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c335823335c1d9bc0800000000000000
+      internalID: -3774829769000463556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_46
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 31
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7536b663e74c7bb90800000000000000
+      internalID: -7226091030734740649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_47
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 31
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d57c73527d7515e0800000000000000
+      internalID: -1939506134532721191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_48
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 31
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c53872b87fd5bd0800000000000000
+      internalID: -2639681629533807466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_49
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 31
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902bb3ab2ae0c2f30800000000000000
+      internalID: 4552029415436694025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_50
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 31
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52d5c9fdecc1d560800000000000000
+      internalID: 7336870590433055324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_51
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 31
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c193ce7c57118930800000000000000
+      internalID: 4143618818188743113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_52
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 31
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbe9f71045211490800000000000000
+      internalID: -7777394124281746484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_53
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 31
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c8bc4717d78a500800000000000000
+      internalID: 407713692521303046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_54
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 31
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46c60afa5c11ab20800000000000000
+      internalID: 3143825191948699214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_55
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 31
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7330b3d8b03451df0800000000000000
+      internalID: -210188090709703881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_56
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 31
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2ded4fb6e9d2360800000000000000
+      internalID: 7146542370213778157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_57
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 31
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcdd37e508690b20800000000000000
+      internalID: 3101124192985013491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_58
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 31
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783068c3eb5679a60800000000000000
+      internalID: 7680719557237277575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_59
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 31
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc5dae3ee4255a70800000000000000
+      internalID: 8814992451319979222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_60
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b56a7e92bc05be0800000000000000
+      internalID: -1490468095819097278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_61
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 31
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb7fb42cfa2e4a40800000000000000
+      internalID: 5354264269426752485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_62
+      rect:
+        serializedVersion: 2
+        x: 3689
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81189929f051923d0800000000000000
+      internalID: -3231028101033393896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_63
+      rect:
+        serializedVersion: 2
+        x: 3706
+        y: 31
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e334abc590ff690800000000000000
+      internalID: -7566318555092533601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_64
+      rect:
+        serializedVersion: 2
+        x: 3769
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf924d3efa49b5a0800000000000000
+      internalID: -6505085730950045751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_65
+      rect:
+        serializedVersion: 2
+        x: 3786
+        y: 31
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b695d4e5f72c0bb0800000000000000
+      internalID: -4968552351836825934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_66
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 31
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3d3a52a57f15da0800000000000000
+      internalID: -5957708865483844683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_67
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 31
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d96d7ec4370d190800000000000000
+      internalID: -7939719368909873847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_68
+      rect:
+        serializedVersion: 2
+        x: 3934
+        y: 31
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbafc9be48894900800000000000000
+      internalID: 669215891347450801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_69
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bf8baf132af6010800000000000000
+      internalID: 1184343562565253909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_70
+      rect:
+        serializedVersion: 2
+        x: 4033
+        y: 31
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab515a9244a01d60800000000000000
+      internalID: 7858961955725335469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_71
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8690e45240bece0800000000000000
+      internalID: -1375000702962014034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_72
+      rect:
+        serializedVersion: 2
+        x: 4117
+        y: 31
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be74d2086b36a7ab0800000000000000
+      internalID: -5009582000010606613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_73
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc62aee15ffcf6a20800000000000000
+      internalID: 3057891323700455115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_74
+      rect:
+        serializedVersion: 2
+        x: 4198
+        y: 31
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4083d854d9de010800000000000000
+      internalID: 1219803996134835362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_75
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f810edcedf3809140800000000000000
+      internalID: 4724421135735587215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_76
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 31
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfce2f3c30e5edb60800000000000000
+      internalID: 7772753377153445115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_77
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5523706ef92a8bf00800000000000000
+      internalID: 1132834113926410837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_78
+      rect:
+        serializedVersion: 2
+        x: 4358
+        y: 31
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8736ba26055c2a60800000000000000
+      internalID: 7650583351970379659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_79
+      rect:
+        serializedVersion: 2
+        x: 4414
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9761e63e7709f70800000000000000
+      internalID: 9191978658151430630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_80
+      rect:
+        serializedVersion: 2
+        x: 4438
+        y: 31
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b37b2f54a35e4480800000000000000
+      internalID: -8913094647083207751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_81
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ee3ce0b8bbad380800000000000000
+      internalID: -8945631503895499235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_82
+      rect:
+        serializedVersion: 2
+        x: 4518
+        y: 31
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3734f71bc1503f4e0800000000000000
+      internalID: -1949208592926162061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_83
+      rect:
+        serializedVersion: 2
+        x: 4574
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608170dc6e88d3ef0800000000000000
+      internalID: -126794689632856058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_84
+      rect:
+        serializedVersion: 2
+        x: 4598
+        y: 31
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51e76e5d27b84310800000000000000
+      internalID: 1389561890529075547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_85
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58811a5e8c364090800000000000000
+      internalID: -8050680701784061858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_86
+      rect:
+        serializedVersion: 2
+        x: 4678
+        y: 31
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d27f2228e570920800000000000000
+      internalID: 2956435593417403730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_87
+      rect:
+        serializedVersion: 2
+        x: 4734
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548470b9fbdc086d0800000000000000
+      internalID: -2990163929750615995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_88
+      rect:
+        serializedVersion: 2
+        x: 4756
+        y: 31
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3061db786c61a00800000000000000
+      internalID: 726986676162135011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_89
+      rect:
+        serializedVersion: 2
+        x: 4814
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dac0cd2ef9a7f50800000000000000
+      internalID: 6879987177465097593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_90
+      rect:
+        serializedVersion: 2
+        x: 4836
+        y: 31
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab39d2e8a68d7070800000000000000
+      internalID: 8105782964255275943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_91
+      rect:
+        serializedVersion: 2
+        x: 4894
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ee4a983ef7431c0800000000000000
+      internalID: -4524851110356914567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_92
+      rect:
+        serializedVersion: 2
+        x: 4916
+        y: 31
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6038379ac1187b80800000000000000
+      internalID: -8396941943414181777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_93
+      rect:
+        serializedVersion: 2
+        x: 4974
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792e8fd6847eb7590800000000000000
+      internalID: -7675286841654189417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_94
+      rect:
+        serializedVersion: 2
+        x: 4996
+        y: 31
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d04bbf7f9496f9c0800000000000000
+      internalID: -3893761415051525927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_95
+      rect:
+        serializedVersion: 2
+        x: 5054
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebf33b44792cb750800000000000000
+      internalID: 6321973556375976930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_96
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 31
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2ab608b817d8510800000000000000
+      internalID: 1553022290481619685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_97
+      rect:
+        serializedVersion: 2
+        x: 5134
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499d1e167d2db4720800000000000000
+      internalID: 2831588613234481556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_98
+      rect:
+        serializedVersion: 2
+        x: 5156
+        y: 31
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb52700faec121890800000000000000
+      internalID: -7488891434988788289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_99
+      rect:
+        serializedVersion: 2
+        x: 5214
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00afc286a05c1b4f0800000000000000
+      internalID: -814653409089226240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_100
+      rect:
+        serializedVersion: 2
+        x: 5236
+        y: 31
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e779fcf8c95da40800000000000000
+      internalID: 5392388270323105352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_101
+      rect:
+        serializedVersion: 2
+        x: 5294
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ac465c46dec1060800000000000000
+      internalID: 6925671344053209675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_102
+      rect:
+        serializedVersion: 2
+        x: 5318
+        y: 31
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b18c72ca9d734b00800000000000000
+      internalID: 811630461498196409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_103
+      rect:
+        serializedVersion: 2
+        x: 5374
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a4e70d045989eb0800000000000000
+      internalID: -4712852904434840964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_104
+      rect:
+        serializedVersion: 2
+        x: 5398
+        y: 31
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc0c5a70eecccfa0800000000000000
+      internalID: -5779016758302339853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_105
+      rect:
+        serializedVersion: 2
+        x: 5454
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d468eba3f2d9d1470800000000000000
+      internalID: 8367016508898838093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_JumpsToAurelius_106
+      rect:
+        serializedVersion: 2
+        x: 5478
+        y: 31
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35db587476403de0800000000000000
+      internalID: -1355506021789084356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Iris_JumpsToAurelius_0: 4842142465198943800
+      Iris_JumpsToAurelius_1: -4614748726454468726
+      Iris_JumpsToAurelius_10: 3004793567567844552
+      Iris_JumpsToAurelius_100: 5392388270323105352
+      Iris_JumpsToAurelius_101: 6925671344053209675
+      Iris_JumpsToAurelius_102: 811630461498196409
+      Iris_JumpsToAurelius_103: -4712852904434840964
+      Iris_JumpsToAurelius_104: -5779016758302339853
+      Iris_JumpsToAurelius_105: 8367016508898838093
+      Iris_JumpsToAurelius_106: -1355506021789084356
+      Iris_JumpsToAurelius_11: 3904739695871244283
+      Iris_JumpsToAurelius_12: 3448971330580905971
+      Iris_JumpsToAurelius_13: 1810673683533472241
+      Iris_JumpsToAurelius_14: -4001505163554899999
+      Iris_JumpsToAurelius_15: 5698250468677591735
+      Iris_JumpsToAurelius_16: 1291984193703002414
+      Iris_JumpsToAurelius_17: -6311733086427030332
+      Iris_JumpsToAurelius_18: 8164254879973679634
+      Iris_JumpsToAurelius_19: -1062868175828718689
+      Iris_JumpsToAurelius_2: 8462905849144685470
+      Iris_JumpsToAurelius_20: -5906220319572695360
+      Iris_JumpsToAurelius_21: 5690134576941497250
+      Iris_JumpsToAurelius_22: -3938125104410729639
+      Iris_JumpsToAurelius_23: -1612063589085239760
+      Iris_JumpsToAurelius_24: 1621681612303834931
+      Iris_JumpsToAurelius_25: 3349656573794090032
+      Iris_JumpsToAurelius_26: 6182459372376974639
+      Iris_JumpsToAurelius_27: -5282185096682235897
+      Iris_JumpsToAurelius_28: 1291987645568577212
+      Iris_JumpsToAurelius_29: 7211389625918199821
+      Iris_JumpsToAurelius_3: 2085558559375507602
+      Iris_JumpsToAurelius_30: 8681634116308755537
+      Iris_JumpsToAurelius_31: 2845575053516103015
+      Iris_JumpsToAurelius_32: 7164677530786009397
+      Iris_JumpsToAurelius_33: -2143523734689368185
+      Iris_JumpsToAurelius_34: 9008426040837248307
+      Iris_JumpsToAurelius_35: 7577911118702971496
+      Iris_JumpsToAurelius_36: 3974958460950230196
+      Iris_JumpsToAurelius_37: 6495761138577134516
+      Iris_JumpsToAurelius_38: -2429675402842847033
+      Iris_JumpsToAurelius_39: -684340032147557554
+      Iris_JumpsToAurelius_4: -3962811006103154372
+      Iris_JumpsToAurelius_40: 8699916999509312284
+      Iris_JumpsToAurelius_41: 7922923671019001278
+      Iris_JumpsToAurelius_42: 67188430669061871
+      Iris_JumpsToAurelius_43: 3443676367578508697
+      Iris_JumpsToAurelius_44: -653385430363010994
+      Iris_JumpsToAurelius_45: -3774829769000463556
+      Iris_JumpsToAurelius_46: -7226091030734740649
+      Iris_JumpsToAurelius_47: -1939506134532721191
+      Iris_JumpsToAurelius_48: -2639681629533807466
+      Iris_JumpsToAurelius_49: 4552029415436694025
+      Iris_JumpsToAurelius_5: -7410347064447339728
+      Iris_JumpsToAurelius_50: 7336870590433055324
+      Iris_JumpsToAurelius_51: 4143618818188743113
+      Iris_JumpsToAurelius_52: -7777394124281746484
+      Iris_JumpsToAurelius_53: 407713692521303046
+      Iris_JumpsToAurelius_54: 3143825191948699214
+      Iris_JumpsToAurelius_55: -210188090709703881
+      Iris_JumpsToAurelius_56: 7146542370213778157
+      Iris_JumpsToAurelius_57: 3101124192985013491
+      Iris_JumpsToAurelius_58: 7680719557237277575
+      Iris_JumpsToAurelius_59: 8814992451319979222
+      Iris_JumpsToAurelius_6: 1414359204066716905
+      Iris_JumpsToAurelius_60: -1490468095819097278
+      Iris_JumpsToAurelius_61: 5354264269426752485
+      Iris_JumpsToAurelius_62: -3231028101033393896
+      Iris_JumpsToAurelius_63: -7566318555092533601
+      Iris_JumpsToAurelius_64: -6505085730950045751
+      Iris_JumpsToAurelius_65: -4968552351836825934
+      Iris_JumpsToAurelius_66: -5957708865483844683
+      Iris_JumpsToAurelius_67: -7939719368909873847
+      Iris_JumpsToAurelius_68: 669215891347450801
+      Iris_JumpsToAurelius_69: 1184343562565253909
+      Iris_JumpsToAurelius_7: 8297065357698100893
+      Iris_JumpsToAurelius_70: 7858961955725335469
+      Iris_JumpsToAurelius_71: -1375000702962014034
+      Iris_JumpsToAurelius_72: -5009582000010606613
+      Iris_JumpsToAurelius_73: 3057891323700455115
+      Iris_JumpsToAurelius_74: 1219803996134835362
+      Iris_JumpsToAurelius_75: 4724421135735587215
+      Iris_JumpsToAurelius_76: 7772753377153445115
+      Iris_JumpsToAurelius_77: 1132834113926410837
+      Iris_JumpsToAurelius_78: 7650583351970379659
+      Iris_JumpsToAurelius_79: 9191978658151430630
+      Iris_JumpsToAurelius_8: 3387987017061285396
+      Iris_JumpsToAurelius_80: -8913094647083207751
+      Iris_JumpsToAurelius_81: -8945631503895499235
+      Iris_JumpsToAurelius_82: -1949208592926162061
+      Iris_JumpsToAurelius_83: -126794689632856058
+      Iris_JumpsToAurelius_84: 1389561890529075547
+      Iris_JumpsToAurelius_85: -8050680701784061858
+      Iris_JumpsToAurelius_86: 2956435593417403730
+      Iris_JumpsToAurelius_87: -2990163929750615995
+      Iris_JumpsToAurelius_88: 726986676162135011
+      Iris_JumpsToAurelius_89: 6879987177465097593
+      Iris_JumpsToAurelius_9: -2087937698208344019
+      Iris_JumpsToAurelius_90: 8105782964255275943
+      Iris_JumpsToAurelius_91: -4524851110356914567
+      Iris_JumpsToAurelius_92: -8396941943414181777
+      Iris_JumpsToAurelius_93: -7675286841654189417
+      Iris_JumpsToAurelius_94: -3893761415051525927
+      Iris_JumpsToAurelius_95: 6321973556375976930
+      Iris_JumpsToAurelius_96: 1553022290481619685
+      Iris_JumpsToAurelius_97: 2831588613234481556
+      Iris_JumpsToAurelius_98: -7488891434988788289
+      Iris_JumpsToAurelius_99: -814653409089226240
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

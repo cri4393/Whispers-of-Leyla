@@ -1,0 +1,2015 @@
+fileFormatVersion: 2
+guid: c4cedf21d9342134fba0332b3c309f2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3727955196907460449
+    second: Iris_DrinksAtFlower_0
+  - first:
+      213: 7434297270998751047
+    second: Iris_DrinksAtFlower_1
+  - first:
+      213: 3883811170549931316
+    second: Iris_DrinksAtFlower_2
+  - first:
+      213: -2642953493137914988
+    second: Iris_DrinksAtFlower_3
+  - first:
+      213: -4863693471474409391
+    second: Iris_DrinksAtFlower_4
+  - first:
+      213: -5878557301980806431
+    second: Iris_DrinksAtFlower_5
+  - first:
+      213: -7608429497847357157
+    second: Iris_DrinksAtFlower_6
+  - first:
+      213: 7339197777078809694
+    second: Iris_DrinksAtFlower_7
+  - first:
+      213: 1098836160201085089
+    second: Iris_DrinksAtFlower_8
+  - first:
+      213: -3043042921231100969
+    second: Iris_DrinksAtFlower_9
+  - first:
+      213: -664423914173442037
+    second: Iris_DrinksAtFlower_10
+  - first:
+      213: -5776009705150784457
+    second: Iris_DrinksAtFlower_11
+  - first:
+      213: 3985644747329366269
+    second: Iris_DrinksAtFlower_12
+  - first:
+      213: 5348518463406397071
+    second: Iris_DrinksAtFlower_13
+  - first:
+      213: -7271096996236367536
+    second: Iris_DrinksAtFlower_14
+  - first:
+      213: 1487357976335918793
+    second: Iris_DrinksAtFlower_15
+  - first:
+      213: -6688335958317556616
+    second: Iris_DrinksAtFlower_16
+  - first:
+      213: 466135514256515463
+    second: Iris_DrinksAtFlower_17
+  - first:
+      213: 5341245043234000269
+    second: Iris_DrinksAtFlower_18
+  - first:
+      213: 5167219021015296902
+    second: Iris_DrinksAtFlower_19
+  - first:
+      213: -4165156186979057963
+    second: Iris_DrinksAtFlower_20
+  - first:
+      213: -2415678510186643159
+    second: Iris_DrinksAtFlower_21
+  - first:
+      213: 802811120456059026
+    second: Iris_DrinksAtFlower_22
+  - first:
+      213: 6193716120752094403
+    second: Iris_DrinksAtFlower_23
+  - first:
+      213: 2072811728766774853
+    second: Iris_DrinksAtFlower_24
+  - first:
+      213: -725382851119093690
+    second: Iris_DrinksAtFlower_25
+  - first:
+      213: 2048313526389772870
+    second: Iris_DrinksAtFlower_26
+  - first:
+      213: -4386257150256861559
+    second: Iris_DrinksAtFlower_27
+  - first:
+      213: 8041968194144834005
+    second: Iris_DrinksAtFlower_28
+  - first:
+      213: 5066240045021216183
+    second: Iris_DrinksAtFlower_29
+  - first:
+      213: 4257649379148084558
+    second: Iris_DrinksAtFlower_30
+  - first:
+      213: 6062794811057069235
+    second: Iris_DrinksAtFlower_31
+  - first:
+      213: 7892215391100995952
+    second: Iris_DrinksAtFlower_32
+  - first:
+      213: -7896346663181773376
+    second: Iris_DrinksAtFlower_33
+  - first:
+      213: 5894160085340295027
+    second: Iris_DrinksAtFlower_34
+  - first:
+      213: -5939927736238248531
+    second: Iris_DrinksAtFlower_35
+  - first:
+      213: 8833343628597241301
+    second: Iris_DrinksAtFlower_36
+  - first:
+      213: 5181016893923303785
+    second: Iris_DrinksAtFlower_37
+  - first:
+      213: -3131836967724174361
+    second: Iris_DrinksAtFlower_38
+  - first:
+      213: -482644496001174872
+    second: Iris_DrinksAtFlower_39
+  - first:
+      213: -5095664211564480405
+    second: Iris_DrinksAtFlower_40
+  - first:
+      213: 1023947486450617284
+    second: Iris_DrinksAtFlower_41
+  - first:
+      213: -4687666599501578422
+    second: Iris_DrinksAtFlower_42
+  - first:
+      213: -2052737910965452692
+    second: Iris_DrinksAtFlower_43
+  - first:
+      213: -2658916406828869232
+    second: Iris_DrinksAtFlower_44
+  - first:
+      213: -2810445067019957451
+    second: Iris_DrinksAtFlower_45
+  - first:
+      213: -5623963159448683626
+    second: Iris_DrinksAtFlower_46
+  - first:
+      213: -9053341146692300926
+    second: Iris_DrinksAtFlower_47
+  - first:
+      213: -7975073096855151609
+    second: Iris_DrinksAtFlower_48
+  - first:
+      213: 1709227927318653546
+    second: Iris_DrinksAtFlower_49
+  - first:
+      213: -4128956028016801681
+    second: Iris_DrinksAtFlower_50
+  - first:
+      213: -6371509525141541617
+    second: Iris_DrinksAtFlower_51
+  - first:
+      213: -5315811187099133583
+    second: Iris_DrinksAtFlower_52
+  - first:
+      213: 3161546423436089120
+    second: Iris_DrinksAtFlower_53
+  - first:
+      213: 112876568562271831
+    second: Iris_DrinksAtFlower_54
+  - first:
+      213: 4995274836679198933
+    second: Iris_DrinksAtFlower_55
+  - first:
+      213: 1121647366833382332
+    second: Iris_DrinksAtFlower_56
+  - first:
+      213: 2600899633078364412
+    second: Iris_DrinksAtFlower_57
+  - first:
+      213: 5397058881183052640
+    second: Iris_DrinksAtFlower_58
+  - first:
+      213: 1498240228841540972
+    second: Iris_DrinksAtFlower_59
+  - first:
+      213: -3808003801252785714
+    second: Iris_DrinksAtFlower_60
+  - first:
+      213: -6471940174638972299
+    second: Iris_DrinksAtFlower_61
+  - first:
+      213: -6774594109668473154
+    second: Iris_DrinksAtFlower_62
+  - first:
+      213: 950483590014546911
+    second: Iris_DrinksAtFlower_63
+  - first:
+      213: -5449665697480506179
+    second: Iris_DrinksAtFlower_64
+  - first:
+      213: 4845477413351773375
+    second: Iris_DrinksAtFlower_65
+  - first:
+      213: -800535721721102807
+    second: Iris_DrinksAtFlower_66
+  - first:
+      213: 1411163082081789834
+    second: Iris_DrinksAtFlower_67
+  - first:
+      213: -2756214022547135505
+    second: Iris_DrinksAtFlower_68
+  - first:
+      213: 3800856576734879772
+    second: Iris_DrinksAtFlower_69
+  - first:
+      213: -6047985912615575554
+    second: Iris_DrinksAtFlower_70
+  - first:
+      213: 8044533210882589218
+    second: Iris_DrinksAtFlower_71
+  - first:
+      213: -7457884503847131087
+    second: Iris_DrinksAtFlower_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9862cdff74a34cc0800000000000000
+      internalID: -3727955196907460449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 9
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7475988bafdeb2760800000000000000
+      internalID: 7434297270998751047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 9
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d925baea116e530800000000000000
+      internalID: 3883811170549931316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 9
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49303ab0dc7525bd0800000000000000
+      internalID: -2642953493137914988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 9
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150a1608e80b08cb0800000000000000
+      internalID: -4863693471474409391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 9
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2c7af974b2b6ea0800000000000000
+      internalID: -5878557301980806431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_6
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 9
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b116432dead696690800000000000000
+      internalID: -7608429497847357157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 9
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e547e175e711ad560800000000000000
+      internalID: 7339197777078809694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 9
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0d3237aa9df3f00800000000000000
+      internalID: 1098836160201085089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3d0cbf590f4c5d0800000000000000
+      internalID: -3043042921231100969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_10
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08da6768fd77c6f0800000000000000
+      internalID: -664423914173442037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_11
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c574996cd77dfa0800000000000000
+      internalID: -5776009705150784457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_12
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8e775e7cadf4730800000000000000
+      internalID: 3985644747329366269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_13
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86d4fd6431c93a40800000000000000
+      internalID: 5348518463406397071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_14
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 9
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059ebeb4ecfd71b90800000000000000
+      internalID: -7271096996236367536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_15
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 9
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6a859f23824a410800000000000000
+      internalID: 1487357976335918793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_16
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c920ad1e14e23a0800000000000000
+      internalID: -6688335958317556616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7812470d7cb087600800000000000000
+      internalID: 466135514256515463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_18
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d4744511aef1a40800000000000000
+      internalID: 5341245043234000269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_19
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b22409256a5b740800000000000000
+      internalID: 5167219021015296902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_20
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deb71114846236c0800000000000000
+      internalID: -4165156186979057963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_21
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 9
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921c7cc9139c97ed0800000000000000
+      internalID: -2415678510186643159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_22
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 9
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2984488e578242b00800000000000000
+      internalID: 802811120456059026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_23
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 9
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccf9010fff74f550800000000000000
+      internalID: 6193716120752094403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_24
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 9
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e286bf84b14cc10800000000000000
+      internalID: 2072811728766774853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_25
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 9
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648e2e0e32ceee5f0800000000000000
+      internalID: -725382851119093690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_26
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 9
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6421711cc421d6c10800000000000000
+      internalID: 2048313526389772870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_27
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 9
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e2c697c52e023c0800000000000000
+      internalID: -4386257150256861559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_28
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d11ef2e67fca9f60800000000000000
+      internalID: 8041968194144834005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_29
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd39569a76ee4640800000000000000
+      internalID: 5066240045021216183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_30
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45b8466d85361b30800000000000000
+      internalID: 4257649379148084558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_31
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc532332cf532450800000000000000
+      internalID: 6062794811057069235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_32
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079027d5518c68d60800000000000000
+      internalID: 7892215391100995952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_33
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c595b5eb8a8a6290800000000000000
+      internalID: -7896346663181773376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_34
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 9
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f8ef77e534cc150800000000000000
+      internalID: 5894160085340295027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_35
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 9
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad670ae133219da0800000000000000
+      internalID: -5939927736238248531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_36
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5af79aa37569a70800000000000000
+      internalID: 8833343628597241301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_37
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961a8913a6ba6e740800000000000000
+      internalID: 5181016893923303785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_38
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e33d5cfeda7984d0800000000000000
+      internalID: -3131836967724174361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_39
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a27d07536d4d49f0800000000000000
+      internalID: -482644496001174872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_40
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b683707c5609849b0800000000000000
+      internalID: -5095664211564480405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_41
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 9
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb0b8650dac53e00800000000000000
+      internalID: 1023947486450617284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_42
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 9
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fbe37601012feb0800000000000000
+      internalID: -4687666599501578422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_43
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 9
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c604defeeb53383e0800000000000000
+      internalID: -2052737910965452692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_44
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 9
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099d1839d91a91bd0800000000000000
+      internalID: -2658916406828869232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_45
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 9
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bc6871a1b4ff8d0800000000000000
+      internalID: -2810445067019957451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_46
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 9
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b7d23bd4ba3f1b0800000000000000
+      internalID: -5623963159448683626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_47
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 9
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f4af891321c5280800000000000000
+      internalID: -9053341146692300926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_48
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c9c2ca549d25190800000000000000
+      internalID: -7975073096855151609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_49
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a61087eb568b710800000000000000
+      internalID: 1709227927318653546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_50
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68c9d06e5003b6c0800000000000000
+      internalID: -4128956028016801681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_51
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dabe638d9d397a0800000000000000
+      internalID: -6371509525141541617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_52
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17998e3c3e17a36b0800000000000000
+      internalID: -5315811187099133583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_53
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02790d5b8b110eb20800000000000000
+      internalID: 3161546423436089120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_54
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7568e9c14a4019100800000000000000
+      internalID: 112876568562271831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_55
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d806b37ff7c25540800000000000000
+      internalID: 4995274836679198933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_56
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb32b5f5654e09f00800000000000000
+      internalID: 1121647366833382332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_57
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf86416af60481420800000000000000
+      internalID: 2600899633078364412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_58
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06378c4257436ea40800000000000000
+      internalID: 5397058881183052640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_59
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dcc44dc81dac410800000000000000
+      internalID: 1498240228841540972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_60
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 9
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec19dfae7b0472bc0800000000000000
+      internalID: -3808003801252785714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_61
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 9
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572801373bc0f26a0800000000000000
+      internalID: -6471940174638972299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_62
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 9
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6c1c3fc8ecbf1a0800000000000000
+      internalID: -6774594109668473154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_63
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 9
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3b7ab0acbc03d00800000000000000
+      internalID: 950483590014546911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_64
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 9
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db40b05fbe5ee54b0800000000000000
+      internalID: -5449665697480506179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_65
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 9
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4d206f8089e3340800000000000000
+      internalID: 4845477413351773375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_66
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 9
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e7dc4a00de3e4f0800000000000000
+      internalID: -800535721721102807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_67
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 9
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8761a3b855759310800000000000000
+      internalID: 1411163082081789834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_68
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 9
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3a02513f5ffb9d0800000000000000
+      internalID: -2756214022547135505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_69
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 9
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c106d723bea5fb430800000000000000
+      internalID: 3800856576734879772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_70
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 9
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff5bf72bdc311ca0800000000000000
+      internalID: -6047985912615575554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_71
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 9
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2224d72655ce3af60800000000000000
+      internalID: 8044533210882589218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_DrinksAtFlower_72
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 9
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1382d4cae85408890800000000000000
+      internalID: -7457884503847131087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Iris_DrinksAtFlower_0: -3727955196907460449
+      Iris_DrinksAtFlower_1: 7434297270998751047
+      Iris_DrinksAtFlower_10: -664423914173442037
+      Iris_DrinksAtFlower_11: -5776009705150784457
+      Iris_DrinksAtFlower_12: 3985644747329366269
+      Iris_DrinksAtFlower_13: 5348518463406397071
+      Iris_DrinksAtFlower_14: -7271096996236367536
+      Iris_DrinksAtFlower_15: 1487357976335918793
+      Iris_DrinksAtFlower_16: -6688335958317556616
+      Iris_DrinksAtFlower_17: 466135514256515463
+      Iris_DrinksAtFlower_18: 5341245043234000269
+      Iris_DrinksAtFlower_19: 5167219021015296902
+      Iris_DrinksAtFlower_2: 3883811170549931316
+      Iris_DrinksAtFlower_20: -4165156186979057963
+      Iris_DrinksAtFlower_21: -2415678510186643159
+      Iris_DrinksAtFlower_22: 802811120456059026
+      Iris_DrinksAtFlower_23: 6193716120752094403
+      Iris_DrinksAtFlower_24: 2072811728766774853
+      Iris_DrinksAtFlower_25: -725382851119093690
+      Iris_DrinksAtFlower_26: 2048313526389772870
+      Iris_DrinksAtFlower_27: -4386257150256861559
+      Iris_DrinksAtFlower_28: 8041968194144834005
+      Iris_DrinksAtFlower_29: 5066240045021216183
+      Iris_DrinksAtFlower_3: -2642953493137914988
+      Iris_DrinksAtFlower_30: 4257649379148084558
+      Iris_DrinksAtFlower_31: 6062794811057069235
+      Iris_DrinksAtFlower_32: 7892215391100995952
+      Iris_DrinksAtFlower_33: -7896346663181773376
+      Iris_DrinksAtFlower_34: 5894160085340295027
+      Iris_DrinksAtFlower_35: -5939927736238248531
+      Iris_DrinksAtFlower_36: 8833343628597241301
+      Iris_DrinksAtFlower_37: 5181016893923303785
+      Iris_DrinksAtFlower_38: -3131836967724174361
+      Iris_DrinksAtFlower_39: -482644496001174872
+      Iris_DrinksAtFlower_4: -4863693471474409391
+      Iris_DrinksAtFlower_40: -5095664211564480405
+      Iris_DrinksAtFlower_41: 1023947486450617284
+      Iris_DrinksAtFlower_42: -4687666599501578422
+      Iris_DrinksAtFlower_43: -2052737910965452692
+      Iris_DrinksAtFlower_44: -2658916406828869232
+      Iris_DrinksAtFlower_45: -2810445067019957451
+      Iris_DrinksAtFlower_46: -5623963159448683626
+      Iris_DrinksAtFlower_47: -9053341146692300926
+      Iris_DrinksAtFlower_48: -7975073096855151609
+      Iris_DrinksAtFlower_49: 1709227927318653546
+      Iris_DrinksAtFlower_5: -5878557301980806431
+      Iris_DrinksAtFlower_50: -4128956028016801681
+      Iris_DrinksAtFlower_51: -6371509525141541617
+      Iris_DrinksAtFlower_52: -5315811187099133583
+      Iris_DrinksAtFlower_53: 3161546423436089120
+      Iris_DrinksAtFlower_54: 112876568562271831
+      Iris_DrinksAtFlower_55: 4995274836679198933
+      Iris_DrinksAtFlower_56: 1121647366833382332
+      Iris_DrinksAtFlower_57: 2600899633078364412
+      Iris_DrinksAtFlower_58: 5397058881183052640
+      Iris_DrinksAtFlower_59: 1498240228841540972
+      Iris_DrinksAtFlower_6: -7608429497847357157
+      Iris_DrinksAtFlower_60: -3808003801252785714
+      Iris_DrinksAtFlower_61: -6471940174638972299
+      Iris_DrinksAtFlower_62: -6774594109668473154
+      Iris_DrinksAtFlower_63: 950483590014546911
+      Iris_DrinksAtFlower_64: -5449665697480506179
+      Iris_DrinksAtFlower_65: 4845477413351773375
+      Iris_DrinksAtFlower_66: -800535721721102807
+      Iris_DrinksAtFlower_67: 1411163082081789834
+      Iris_DrinksAtFlower_68: -2756214022547135505
+      Iris_DrinksAtFlower_69: 3800856576734879772
+      Iris_DrinksAtFlower_7: 7339197777078809694
+      Iris_DrinksAtFlower_70: -6047985912615575554
+      Iris_DrinksAtFlower_71: 8044533210882589218
+      Iris_DrinksAtFlower_72: -7457884503847131087
+      Iris_DrinksAtFlower_8: 1098836160201085089
+      Iris_DrinksAtFlower_9: -3043042921231100969
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

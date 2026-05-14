@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 63eed659ee8ba9b4cbfc87b1da3883ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1844912828784407716
+    second: FlowyCaves_Tiles_Collider_Spikes_0
+  - first:
+      213: 395300453991096458
+    second: FlowyCaves_Tiles_Collider_Spikes_1
+  - first:
+      213: 2165436661861174114
+    second: FlowyCaves_Tiles_Collider_Spikes_2
+  - first:
+      213: 1909353520699033728
+    second: FlowyCaves_Tiles_Collider_Spikes_3
+  - first:
+      213: -4824879152805344110
+    second: FlowyCaves_Tiles_Collider_Spikes_4
+  - first:
+      213: -3453186906140269344
+    second: FlowyCaves_Tiles_Collider_Spikes_5
+  - first:
+      213: 8477657394537330611
+    second: FlowyCaves_Tiles_Collider_Spikes_6
+  - first:
+      213: 7725291527876323963
+    second: FlowyCaves_Tiles_Collider_Spikes_7
+  - first:
+      213: -8281597937595382306
+    second: FlowyCaves_Tiles_Collider_Spikes_8
+  - first:
+      213: 7101375741647149821
+    second: FlowyCaves_Tiles_Collider_Spikes_9
+  - first:
+      213: -2788691962744681385
+    second: FlowyCaves_Tiles_Collider_Spikes_10
+  - first:
+      213: 7025545557192311807
+    second: FlowyCaves_Tiles_Collider_Spikes_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlowyCaves_Tiles_Collider_Spikes_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 136
+        width: 82
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4714961727a9910800000000000000
+      internalID: 1844912828784407716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowyCaves_Tiles_Collider_Spikes_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 135
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80a0b32ba36c7500800000000000000
+      internalID: 395300453991096458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowyCaves_Tiles_Collider_Spikes_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 143
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bc7d5cb2d2d0e10800000000000000
+      internalID: 2165436661861174114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowyCaves_Tiles_Collider_Spikes_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 102
+        width: 95
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08848ef29e26f7a10800000000000000
+      internalID: 1909353520699033728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowyCaves_Tiles_Collider_Spikes_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 103
+        width: 89
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c89dc49f59a0db0800000000000000
+      internalID: -4824879152805344110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowyCaves_Tiles_Collider_Spikes_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 81
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4aa7cfdc0d310d0800000000000000
+      internalID: -3453186906140269344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowyCaves_Tiles_Collider_Spikes_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 55
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b77cd8db70b6a570800000000000000
+      internalID: 8477657394537330611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowyCaves_Tiles_Collider_Spikes_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 55
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a2769d6bfb53b60800000000000000
+      internalID: 7725291527876323963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowyCaves_Tiles_Collider_Spikes_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed50505bd8ad11d80800000000000000
+      internalID: -8281597937595382306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowyCaves_Tiles_Collider_Spikes_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa5471cc972d8260800000000000000
+      internalID: 7101375741647149821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowyCaves_Tiles_Collider_Spikes_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 7
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ccd9c5f639c49d0800000000000000
+      internalID: -2788691962744681385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowyCaves_Tiles_Collider_Spikes_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff385c91670cf7160800000000000000
+      internalID: 7025545557192311807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FlowyCaves_Tiles_Collider_Spikes_0: 1844912828784407716
+      FlowyCaves_Tiles_Collider_Spikes_1: 395300453991096458
+      FlowyCaves_Tiles_Collider_Spikes_10: -2788691962744681385
+      FlowyCaves_Tiles_Collider_Spikes_11: 7025545557192311807
+      FlowyCaves_Tiles_Collider_Spikes_2: 2165436661861174114
+      FlowyCaves_Tiles_Collider_Spikes_3: 1909353520699033728
+      FlowyCaves_Tiles_Collider_Spikes_4: -4824879152805344110
+      FlowyCaves_Tiles_Collider_Spikes_5: -3453186906140269344
+      FlowyCaves_Tiles_Collider_Spikes_6: 8477657394537330611
+      FlowyCaves_Tiles_Collider_Spikes_7: 7725291527876323963
+      FlowyCaves_Tiles_Collider_Spikes_8: -8281597937595382306
+      FlowyCaves_Tiles_Collider_Spikes_9: 7101375741647149821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

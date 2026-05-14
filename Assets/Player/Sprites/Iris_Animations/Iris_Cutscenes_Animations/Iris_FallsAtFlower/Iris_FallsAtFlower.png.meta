@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: fbe1c32e3813ac0448b15ff306877629
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4685911269181911861
+    second: Iris_FallsAtFlower_0
+  - first:
+      213: -8892196236318476004
+    second: Iris_FallsAtFlower_1
+  - first:
+      213: -854943987135045175
+    second: Iris_FallsAtFlower_2
+  - first:
+      213: -2955091915546770007
+    second: Iris_FallsAtFlower_3
+  - first:
+      213: 5797484293811962506
+    second: Iris_FallsAtFlower_4
+  - first:
+      213: 5289253347409039137
+    second: Iris_FallsAtFlower_5
+  - first:
+      213: -912284055283334464
+    second: Iris_FallsAtFlower_6
+  - first:
+      213: -7965911923428727330
+    second: Iris_FallsAtFlower_7
+  - first:
+      213: -1696346477118003607
+    second: Iris_FallsAtFlower_8
+  - first:
+      213: -1802285415466011197
+    second: Iris_FallsAtFlower_9
+  - first:
+      213: -7637912573022076182
+    second: Iris_FallsAtFlower_10
+  - first:
+      213: 7079991256930577156
+    second: Iris_FallsAtFlower_11
+  - first:
+      213: -8481913984936310372
+    second: Iris_FallsAtFlower_12
+  - first:
+      213: -2423943501324178884
+    second: Iris_FallsAtFlower_13
+  - first:
+      213: -4931536522959156913
+    second: Iris_FallsAtFlower_14
+  - first:
+      213: 748830387921927715
+    second: Iris_FallsAtFlower_15
+  - first:
+      213: 5317329261845742318
+    second: Iris_FallsAtFlower_16
+  - first:
+      213: 6775828306898405117
+    second: Iris_FallsAtFlower_17
+  - first:
+      213: 4205937796767396596
+    second: Iris_FallsAtFlower_18
+  - first:
+      213: 4316815806542856451
+    second: Iris_FallsAtFlower_19
+  - first:
+      213: 7114789225997177749
+    second: Iris_FallsAtFlower_20
+  - first:
+      213: -2961350891490300028
+    second: Iris_FallsAtFlower_21
+  - first:
+      213: 172129875687257361
+    second: Iris_FallsAtFlower_22
+  - first:
+      213: 7696571830317131588
+    second: Iris_FallsAtFlower_23
+  - first:
+      213: 7807790720299991010
+    second: Iris_FallsAtFlower_24
+  - first:
+      213: 2015810426656707248
+    second: Iris_FallsAtFlower_25
+  - first:
+      213: -3378431544803168925
+    second: Iris_FallsAtFlower_26
+  - first:
+      213: 6358413948303304129
+    second: Iris_FallsAtFlower_27
+  - first:
+      213: -2428929847712993155
+    second: Iris_FallsAtFlower_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 39
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc8967178c48feb0800000000000000
+      internalID: -4685911269181911861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 39
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19fb2dc2a2989480800000000000000
+      internalID: -8892196236318476004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 39
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1a5ff29f0a224f0800000000000000
+      internalID: -854943987135045175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 39
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5c43f3f876df6d0800000000000000
+      internalID: -2955091915546770007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_4
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 39
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a828193bf3dc47050800000000000000
+      internalID: 5797484293811962506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_5
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 39
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f8c5355e3376940800000000000000
+      internalID: 5289253347409039137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 39
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c285963c7ae653f0800000000000000
+      internalID: -912284055283334464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_7
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 39
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed56bf39f45637190800000000000000
+      internalID: -7965911923428727330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_8
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 39
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966656fdddd5578e0800000000000000
+      internalID: -1696346477118003607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_9
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 39
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5f74ba6fefcf6e0800000000000000
+      internalID: -1802285415466011197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_10
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 39
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae287837bfea00690800000000000000
+      internalID: -7637912573022076182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_11
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 39
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40be73a698e214260800000000000000
+      internalID: 7079991256930577156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_12
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 39
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9904787b203a4a80800000000000000
+      internalID: -8481913984936310372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_13
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 39
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3aa4f76a3c6c5ed0800000000000000
+      internalID: -2423943501324178884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_14
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 39
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49872829a9af8bb0800000000000000
+      internalID: -4931536522959156913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_15
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 39
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32eba153541646a00800000000000000
+      internalID: 748830387921927715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_16
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 39
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee20b1e8ac2fac940800000000000000
+      internalID: 5317329261845742318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_17
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 39
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df647bbf1f3980e50800000000000000
+      internalID: 6775828306898405117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_18
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 39
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2b5b3642e7e5a30800000000000000
+      internalID: 4205937796767396596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_19
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 39
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30147c5ca1968eb30800000000000000
+      internalID: 4316815806542856451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_20
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 39
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5939653fa1fccb260800000000000000
+      internalID: 7114789225997177749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_21
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 39
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f2f69dd0b27e6d0800000000000000
+      internalID: -2961350891490300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_22
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 39
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115329fb537836200800000000000000
+      internalID: 172129875687257361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_23
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 39
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447a45e2d47bfca60800000000000000
+      internalID: 7696571830317131588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_24
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 39
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef721cea48da5c60800000000000000
+      internalID: 7807790720299991010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_25
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 39
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2d66f17e899fb10800000000000000
+      internalID: 2015810426656707248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_26
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 39
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d6802e8666d11d0800000000000000
+      internalID: -3378431544803168925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_27
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 39
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5e1833ccf9d3850800000000000000
+      internalID: 6358413948303304129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iris_FallsAtFlower_28
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 39
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7039ba2c25ba4ed0800000000000000
+      internalID: -2428929847712993155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Iris_FallsAtFlower_0: -4685911269181911861
+      Iris_FallsAtFlower_1: -8892196236318476004
+      Iris_FallsAtFlower_10: -7637912573022076182
+      Iris_FallsAtFlower_11: 7079991256930577156
+      Iris_FallsAtFlower_12: -8481913984936310372
+      Iris_FallsAtFlower_13: -2423943501324178884
+      Iris_FallsAtFlower_14: -4931536522959156913
+      Iris_FallsAtFlower_15: 748830387921927715
+      Iris_FallsAtFlower_16: 5317329261845742318
+      Iris_FallsAtFlower_17: 6775828306898405117
+      Iris_FallsAtFlower_18: 4205937796767396596
+      Iris_FallsAtFlower_19: 4316815806542856451
+      Iris_FallsAtFlower_2: -854943987135045175
+      Iris_FallsAtFlower_20: 7114789225997177749
+      Iris_FallsAtFlower_21: -2961350891490300028
+      Iris_FallsAtFlower_22: 172129875687257361
+      Iris_FallsAtFlower_23: 7696571830317131588
+      Iris_FallsAtFlower_24: 7807790720299991010
+      Iris_FallsAtFlower_25: 2015810426656707248
+      Iris_FallsAtFlower_26: -3378431544803168925
+      Iris_FallsAtFlower_27: 6358413948303304129
+      Iris_FallsAtFlower_28: -2428929847712993155
+      Iris_FallsAtFlower_3: -2955091915546770007
+      Iris_FallsAtFlower_4: 5797484293811962506
+      Iris_FallsAtFlower_5: 5289253347409039137
+      Iris_FallsAtFlower_6: -912284055283334464
+      Iris_FallsAtFlower_7: -7965911923428727330
+      Iris_FallsAtFlower_8: -1696346477118003607
+      Iris_FallsAtFlower_9: -1802285415466011197
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
