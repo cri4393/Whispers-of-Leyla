@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Ground
   - Death
+  - Damage
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -43,20 +45,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: NoCollide
+    uniqueID: 4167533445
+    locked: 0
   - name: Death
     uniqueID: 386343537
     locked: 0
-  - name: NoCollide
-    uniqueID: 4167533445
+  - name: Ground
+    uniqueID: 543589355
     locked: 0
   - name: Player
     uniqueID: 865699623
     locked: 0
   - name: Front
     uniqueID: 3191596769
-    locked: 0
-  - name: Ground
-    uniqueID: 543589355
     locked: 0
   m_RenderingLayers:
   - Default
