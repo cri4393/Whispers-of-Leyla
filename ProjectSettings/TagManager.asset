@@ -42,14 +42,20 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BG4
+    uniqueID: 2888312053
+    locked: 0
+  - name: BG3
+    uniqueID: 3687322581
+    locked: 0
+  - name: BG2
+    uniqueID: 3302148959
+    locked: 0
+  - name: BG1
+    uniqueID: 2482278685
+    locked: 0
   - name: NoCollide
     uniqueID: 4167533445
-    locked: 0
-  - name: Death
-    uniqueID: 386343537
-    locked: 0
-  - name: Front
-    uniqueID: 3191596769
     locked: 0
   - name: Ground
     uniqueID: 543589355
@@ -57,8 +63,17 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Death
+    uniqueID: 386343537
+    locked: 0
+  - name: Fog
+    uniqueID: 2794685561
+    locked: 0
   - name: Player
     uniqueID: 865699623
+    locked: 0
+  - name: Front
+    uniqueID: 3191596769
     locked: 0
   m_RenderingLayers:
   - Default
